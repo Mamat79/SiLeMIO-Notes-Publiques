@@ -1,0 +1,13 @@
+[
+  {
+    "releaseId": "357157867",
+    "tag": "v2.16.0",
+    "source": "https://github.com/Mamat79/TLC-Track-Latency-Compensation/releases/tag/v2.16.0",
+    "publishedAt": "2026-07-21T06:51:51Z",
+    "observedAt": "2026-11-13T21:12:10.339Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# TLC V2.16 Stable\n\n## Français\n\nVersion stable de TLC - Track Latency Compensation pour Ableton Live / Max for Live.\n\nCette release contient :\n\n- `TLC V2.16.amxd` : device principal de compensation de latence.\n- `TLC Sonde V1.06.amxd` : sonde compagnon IN/OUT pour la mesure réelle.\n- `TLC Impulse.wav` : impulsion audio optionnelle pour les tests/calibrations.\n\nFonctions principales :\n\n- Sources `Rapide`, `Sonde`, `Manuel`.\n- Groupes de compensation de `A` à `H`.\n- Campagnes Sonde de 1, 3, 5 ou 10 mesures.\n- PING automatiques depuis la Sonde IN.\n- Affichage des valeurs brutes, rejetées, moyenne, médiane, min, max, dispersion et confiance.\n- Diagnostic de latence interface audio informatif uniquement, non intégré à la compensation.\n\nInstallation :\n\nCopie les fichiers `.amxd` dans ta User Library Ableton Live, par exemple :\n\n`User Library/Presets/Audio Effects/Max Audio Effect/TLC - Track Latency Compensation/`\n\nPour le mode Sonde, installe les deux devices : `TLC V2.16.amxd` et `TLC Sonde V1.06.amxd`.\n\n## English\n\nStable release of TLC - Track Latency Compensation for Ableton Live / Max for Live.\n\nThis release includes:\n\n- `TLC V2.16.amxd`: main latency compensation device.\n- `TLC Sonde V1.06.amxd`: companion IN/OUT probe for real measurement.\n- `TLC Impulse.wav`: optional impulse sample for tests/calibration.\n\nMain features:\n\n- `Rapide`, `Sonde`, and `Manuel` latency sources.\n- Compensation groups from `A` to `H`.\n- Sonde campaigns with 1, 3, 5, or 10 measurements.\n- Automatic PING impulses from the IN probe.\n- Raw values, rejected values, average, median, min, max, dispersion, retained value, and confidence display.\n- Audio-interface latency diagnostics are informational only and are not used for compensation.\n\nInstallation:\n\nCopy the `.amxd` files into your Ableton Live User Library, for example:\n\n`User Library/Presets/Audio Effects/Max Audio Effect/TLC - Track Latency Compensation/`\n\nFor Sonde mode, install both devices: `TLC V2.16.amxd` and `TLC Sonde V1.06.amxd`.",
+    "contentSha256": "ffc3cd6ebd4666cc035dcbdee742b3b8839ab7167824bf4a4dc3edeb33598c55"
+  }
+]
