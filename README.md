@@ -4,4 +4,6 @@ Ce dépôt contient uniquement les textes publics des publications GitHub de SiL
 
 Le workflow utilise un runner standard GitHub et son seul jeton temporaire limité à ce dépôt. Il vérifie les publications toutes les heures, avec un délai supplémentaire possible ; il ne publie ni installateur ni données privées. En cas d’échec de source, il ne valide aucune mise à jour partielle ; les derniers fichiers restent disponibles et une exécution manuelle peut relancer la synchronisation. Les brouillons et préversions non prévues sont exclus. Toute mise à jour d’un historique passe par un commit, et les sorties sont recalculables.
 
+Un petit fichier `status/last-success.json` indique la date UTC du dernier contrôle réussi. Il est mis à jour au plus une fois par jour, y compris sans nouvelle version : ce repère ne crée aucune note fictive et permet de contrôler que la tâche continue de fonctionner.
+
 Les exécutions planifiées des dépôts publics peuvent être désactivées après 60 jours sans activité. Il faut alors les réactiver. Les runners standard des dépôts publics sont gratuits selon les conditions GitHub en vigueur ; cette affirmation ne couvre pas d’éventuels services supplémentaires ou un changement de conditions.

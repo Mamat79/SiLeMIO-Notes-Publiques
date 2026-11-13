@@ -1,4 +1,4 @@
-import { readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { collectPublicReleaseBodies } from './lib/public-release-ingest.mjs';
 import { mergeHistory, renderHistory } from './lib/release-history.mjs';
 import { pathToFileURL } from 'node:url';
@@ -23,5 +23,8 @@ export async function synchronize({ root = new URL('./', import.meta.url), produ
     await writeFile(new URL(`./history/${slug}.md`, root), text);
     console.log(`${slug}: ${records.length} retained entries`);
   }
+  await mkdir(new URL('./status/', root), { recursive: true });
+  // One factual daily checkpoint, never one commit per polling run.
+  await writeFile(new URL('./status/last-success.json', root), JSON.stringify({ checkedOnUTC: now.slice(0, 10) }, null, 2) + '\n');
 }
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) await synchronize({ token: process.env.GITHUB_TOKEN ?? '' });
