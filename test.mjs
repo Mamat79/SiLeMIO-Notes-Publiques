@@ -4,6 +4,7 @@ import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { synchronize } from './sync.mjs';
+import { collectPublicReleaseBodies } from './lib/public-release-ingest.mjs';
 
 const root = pathToFileURL((await mkdtemp(join(tmpdir(), 'silemio-notes-test-'))) + '/');
 await mkdir(new URL('data/', root)); await mkdir(new URL('history/', root));
@@ -20,4 +21,7 @@ const first = await readFile(new URL('history/stageflow.md', root), 'utf8');
 assert.ok(first.indexOf('v12') < first.indexOf('v11'));
 await synchronize({ ...opts, now: '2026-11-14T00:00:00Z', fetchImpl: good });
 assert.equal(await readFile(new URL('history/stageflow.md', root), 'utf8'), first, 'retries are idempotent');
+const paginated = await collectPublicReleaseBodies('stageflow', async url => new Response(JSON.stringify(new URL(url).searchParams.get('page') === '1' ? Array(100).fill(release('StageFlow', 12)) : [release('StageFlow', 11)])), '2026-11-13T00:00:00Z');
+assert.equal(paginated.length, 101, 'all pages are read before merge');
+await assert.rejects(collectPublicReleaseBodies('stageflow', async () => new Response(JSON.stringify(Array(100).fill(release('StageFlow', 12))))), /pagination/);
 console.log('PASS: isolated new release, source failure without partial write, cumulative order and retry.');
