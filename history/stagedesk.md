@@ -1,6 +1,6 @@
 # StageDesk — Notes de version / Release notes
 
-## v2027.1.10 · 2026-11-01 · all · original
+## v2027.1.10 · 2026-11-01 · unspecified · original
 
 # StageDesk 2027.1.10 — Windows / macOS
 
@@ -20,7 +20,7 @@ ZIP SHA-256: `278c8368cfd1772c61fe765450c57fc71ea9bd8fba965b71a9b5fe5830e20741`
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.10
 
-## v2027.1.9 · 2026-10-26 · windows · original
+## v2027.1.9 · 2026-10-26 · unspecified · original
 
 # StageDesk 2027.1.9 — interface de préparation / preparation workspace
 
@@ -74,7 +74,7 @@ active. Licensing policy and Mac activation limits are unchanged.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.9
 
-## v2027.1.8 · 2026-10-24 · all · original
+## v2027.1.8 · 2026-10-24 · unspecified · original
 
 ## Français
 
@@ -131,7 +131,7 @@ Mac source `bcc839e80398b84c6754388d3a555c25a8f67fb4`, branch `clarte-essai-lice
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.8
 
-## v2027.1.7 · 2026-10-17 · all · original
+## v2027.1.7 · 2026-10-17 · unspecified · original
 
 StageDesk 2027.1.7 — Windows et macOS
 
@@ -145,7 +145,7 @@ Les vérifications automatisées, les lancements masqués et les inspections ne 
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.7
 
-## v2027.1.6 · 2026-10-10 · all · original
+## v2027.1.6 · 2026-10-10 · unspecified · original
 
 # StageDesk 2027.1.6 — maintenance
 
@@ -241,7 +241,7 @@ this repository document and the release body supersede its staging status.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.6
 
-## v2027.1.5 · 2026-10-04 · all · original
+## v2027.1.5 · 2026-10-04 · unspecified · original
 
 # StageDesk 2027.1.5 — qualification Windows/macOS / Windows/macOS qualification
 
@@ -323,7 +323,7 @@ not delete recovery copies.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.5
 
-## v2027.1.4 · 2026-10-03 · all · original
+## v2027.1.4 · 2026-10-03 · unspecified · original
 
 # StageDesk 2027.1.4
 
@@ -403,7 +403,7 @@ execution and Apple notarisation are not claimed.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.4
 
-## v2027.1.3 · 2026-10-02 · all · original
+## v2027.1.3 · 2026-10-02 · unspecified · original
 
 ## Français
 
@@ -454,7 +454,7 @@ StageDesk-v2027.1.3-osx-x64.dmg
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.3
 
-## v2027.1.2 · 2026-09-24 · all · original
+## v2027.1.2 · 2026-09-24 · unspecified · original
 
 # StageDesk 2027.1.2
 
@@ -516,7 +516,7 @@ Limites / Limitations: ces résultats automatisés ne constituent pas une qualif
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.2
 
-## v2027.1.1 · 2026-09-24 · all · original
+## v2027.1.1 · 2026-09-24 · unspecified · original
 
 # StageDesk 2027.1.1
 
@@ -534,7 +534,7 @@ Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.2
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.1
 
-## v2027.1.0 · 2026-09-19 · all · original
+## v2027.1.0 · 2026-09-19 · unspecified · original
 
 # StageDesk 2027.1.0 — notes de version / release notes
 
@@ -578,7 +578,7 @@ DAW transfer implicitly.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.0
 
-## v2027.0.7 · 2026-09-09 · all · original
+## v2027.0.7 · 2026-09-09 · unspecified · original
 
 # StageDesk 2027.0.7 - Connexions réseau / Console networking
 
@@ -639,7 +639,7 @@ The native Apple Silicon smoke test does not qualify execution on Intel hardware
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.7
 
-## v2027.0.6 · 2026-09-07 · all · original
+## v2027.0.6 · 2026-09-07 · unspecified · original
 
 # StageDesk v2027
 
@@ -698,7 +698,7 @@ This release neither changes nor republishes macOS assets.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.6
 
-## v2027.0.5 · 2026-09-07 · macos · original
+## v2027.0.5 · 2026-09-07 · unspecified · original
 
 Version macOS uniquement, compilée sur Codemagic après validation non publique.
 
@@ -709,7 +709,7 @@ Version macOS uniquement, compilée sur Codemagic après validation non publique
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.5
 
-## v2027.0.4 · 2026-09-06 · windows · original
+## v2027.0.4 · 2026-09-06 · unspecified · original
 
 # StageDesk v2027
 
@@ -796,7 +796,7 @@ future native build and acceptance.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.4
 
-## v2027.0.3 · 2026-09-06 · windows · original
+## v2027.0.3 · 2026-09-06 · unspecified · original
 
 # StageDesk v2027
 
@@ -868,7 +868,7 @@ Apple Developer ID or notarisation.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.3
 
-## v2027.0.2 · 2026-09-05 · all · original
+## v2027.0.2 · 2026-09-05 · unspecified · original
 
 # StageDesk v2027
 
@@ -933,7 +933,7 @@ notarization. Do not disable macOS security protections.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.2
 
-## v2027.0.1 · 2026-09-04 · windows · original
+## v2027.0.1 · 2026-09-04 · unspecified · original
 
 # StageDesk 2027.0.1 — Windows
 
@@ -997,7 +997,7 @@ macOS may display a warning.
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.1
 
-## v2027.0.0 · 2026-09-04 · all · original
+## v2027.0.0 · 2026-09-04 · unspecified · original
 
 # StageDesk v2027
 
@@ -1044,7 +1044,7 @@ macOS may therefore display a warning. SHA-256 files accompany official download
 
 Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.0.0
 
-## v2026.9.1 · 2026-09-02 · windows · original
+## v2026.9.1 · 2026-09-02 · unspecified · original
 
 # StageDesk v2026.9.1 — installateur Windows et symbole transparent
 

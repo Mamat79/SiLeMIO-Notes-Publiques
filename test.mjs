@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import { mkdtemp, mkdir, writeFile, readFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
+import { pathToFileURL } from 'node:url';
+import { synchronize } from './sync.mjs';
+
+const root = pathToFileURL((await mkdtemp(join(tmpdir(), 'silemio-notes-test-'))) + '/');
+await mkdir(new URL('data/', root)); await mkdir(new URL('history/', root));
+for (const slug of ['stageflow', 'stagedesk']) await writeFile(new URL(`data/${slug}.json`, root), '[]\n');
+const products = { stageflow: 'StageFlow', stagedesk: 'StageDesk' };
+const release = (repo, id) => ({ id, tag_name: `v${id}`, html_url: `https://github.com/Mamat79/${repo}/releases/tag/v${id}`, published_at: `2026-11-${id}T00:00:00Z`, draft: false, prerelease: false, body: `Notes publiques ${id}`, assets: [{ name: 'setup.exe' }] });
+const good = async url => new Response(JSON.stringify(url.includes('/StageFlow/') ? [release('StageFlow', 12), release('StageFlow', 11)] : [release('StageDesk', 10)]));
+const failure = async url => url.includes('/StageDesk/') ? new Response('', { status: 503 }) : good(url);
+const opts = { root, products, now: '2026-11-13T00:00:00Z' };
+await assert.rejects(synchronize({ ...opts, fetchImpl: failure }), /503/);
+assert.equal(await readFile(new URL('data/stageflow.json', root), 'utf8'), '[]\n', 'failure commits no partial history');
+await synchronize({ ...opts, fetchImpl: good });
+const first = await readFile(new URL('history/stageflow.md', root), 'utf8');
+assert.ok(first.indexOf('v12') < first.indexOf('v11'));
+await synchronize({ ...opts, now: '2026-11-14T00:00:00Z', fetchImpl: good });
+assert.equal(await readFile(new URL('history/stageflow.md', root), 'utf8'), first, 'retries are idempotent');
+console.log('PASS: isolated new release, source failure without partial write, cumulative order and retry.');

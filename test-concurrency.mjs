@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import { execFileSync, spawnSync } from 'node:child_process';
+import { mkdtemp, writeFile, readFile } from 'node:fs/promises';
+import { join } from 'node:path';
+import { tmpdir } from 'node:os';
+const root = await mkdtemp(join(tmpdir(), 'silemio-history-git-'));
+const git = (cwd, ...args) => execFileSync('git', args, { cwd, encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
+git(root, 'init', '--bare', '--initial-branch=main', 'remote.git');
+git(root, 'clone', join(root, 'remote.git'), 'a');
+const a = join(root, 'a'), b = join(root, 'b');
+for (const dir of [a]) { git(dir, 'config', 'user.name', 'Fixture'); git(dir, 'config', 'user.email', 'fixture@example.test'); }
+await writeFile(join(a, 'history.txt'), 'ancien\n'); git(a, 'add', 'history.txt'); git(a, 'commit', '-m', 'seed'); git(a, 'push', '-u', 'origin', 'main');
+git(root, 'clone', join(root, 'remote.git'), 'b'); git(b, 'config', 'user.name', 'Fixture'); git(b, 'config', 'user.email', 'fixture@example.test');
+await writeFile(join(a, 'history.txt'), 'A\nancien\n'); git(a, 'commit', '-am', 'A');
+await writeFile(join(b, 'history.txt'), 'B\nancien\n'); git(b, 'commit', '-am', 'B');
+git(a, 'push');
+const conflict = spawnSync('git', ['push'], { cwd: b, encoding: 'utf8' });
+assert.notEqual(conflict.status, 0, 'concurrent stale push must fail, never force');
+git(b, 'fetch', 'origin'); git(b, 'reset', '--hard', 'origin/main');
+const old = await readFile(join(b, 'history.txt'), 'utf8');
+await writeFile(join(b, 'history.txt'), 'B\n' + old); git(b, 'commit', '-am', 'recomputed'); git(b, 'push');
+assert.equal((await readFile(join(b, 'history.txt'), 'utf8')).replace(/\r\n/g, '\n'), 'B\nA\nancien\n');
+console.log('PASS: stale concurrent push refused; next run recomputes without history loss.');

@@ -1,6 +1,25 @@
 # StageMon — Notes de version / Release notes
 
-## v2027.1.7 · 2026-10-26 · all · en
+## v2027.1.7 · 2026-10-26 · macos · en
+
+# StageMon 2027.1.7 — macOS
+
+Monitors A and B and their existing controls are visible above the matrix.
+Configured C–F circuits remain accessible through horizontal scrolling and
+the view selector. The table distinguishes temporary cues from Always
+sources; snapshots, levels, mute, clear and A/B link keep their behavior.
+
+The contextual panel groups the CoreAudio device, output patch, circuit
+settings and input tests. Audio status and Start/Stop remain visible.
+Light/dark theme and French/English labels follow the existing preference.
+
+Project and shared formats, audio processing, and the trial and licensing
+terms of 2027.1.6 are unchanged. Native Apple Silicon validation, Intel
+architecture and package signing belong to the Mac delivery checks.
+
+Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
+
+## v2027.1.7 · 2026-10-26 · unspecified · en
 
 # StageMon 2027.1.7 — Windows
 
@@ -26,26 +45,29 @@ unchanged.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
 
-## v2027.1.7 · 2026-10-26 · macos · en
+## v2027.1.7 · 2026-10-26 · macos · fr
 
 # StageMon 2027.1.7 — macOS
 
-Monitors A and B and their existing controls are visible above the matrix.
-Configured C–F circuits remain accessible through horizontal scrolling and
-the view selector. The table distinguishes temporary cues from Always
-sources; snapshots, levels, mute, clear and A/B link keep their behavior.
+Les retours A et B et leurs commandes existantes sont visibles au-dessus de
+la matrice. Les circuits C à F configurés restent accessibles par défilement
+horizontal et par le sélecteur de vue. Le tableau distingue les cues
+temporaires des sources « Toujours » ; les snapshots, niveaux, mute,
+effacement et lien A/B gardent leur comportement.
 
-The contextual panel groups the CoreAudio device, output patch, circuit
-settings and input tests. Audio status and Start/Stop remain visible.
-Light/dark theme and French/English labels follow the existing preference.
+Le panneau contextuel rassemble le périphérique CoreAudio, le patch de
+sortie, les paramètres de circuits et les tests d'entrée. L'état audio et
+Démarrer/Arrêter restent visibles. Le thème clair/sombre et les libellés
+français/anglais suivent la préférence existante.
 
-Project and shared formats, audio processing, and the trial and licensing
-terms of 2027.1.6 are unchanged. Native Apple Silicon validation, Intel
-architecture and package signing belong to the Mac delivery checks.
+Le projet, les formats partagés, le fonctionnement audio et les modalités
+d'essai et de licence de 2027.1.6 ne changent pas. La vérification native
+Apple Silicon, l'architecture Intel et la signature du paquet relèvent de la
+recette de livraison Mac.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
 
-## v2027.1.7 · 2026-10-26 · all · fr
+## v2027.1.7 · 2026-10-26 · unspecified · fr
 
 # StageMon 2027.1.7 — Windows
 
@@ -74,29 +96,7 @@ d'essai décrites en 2027.1.6 ne changent pas.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
 
-## v2027.1.7 · 2026-10-26 · macos · fr
-
-# StageMon 2027.1.7 — macOS
-
-Les retours A et B et leurs commandes existantes sont visibles au-dessus de
-la matrice. Les circuits C à F configurés restent accessibles par défilement
-horizontal et par le sélecteur de vue. Le tableau distingue les cues
-temporaires des sources « Toujours » ; les snapshots, niveaux, mute,
-effacement et lien A/B gardent leur comportement.
-
-Le panneau contextuel rassemble le périphérique CoreAudio, le patch de
-sortie, les paramètres de circuits et les tests d'entrée. L'état audio et
-Démarrer/Arrêter restent visibles. Le thème clair/sombre et les libellés
-français/anglais suivent la préférence existante.
-
-Le projet, les formats partagés, le fonctionnement audio et les modalités
-d'essai et de licence de 2027.1.6 ne changent pas. La vérification native
-Apple Silicon, l'architecture Intel et la signature du paquet relèvent de la
-recette de livraison Mac.
-
-Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
-
-## v2027.1.7 · 2026-10-26 · all · original
+## v2027.1.7 · 2026-10-26 · unspecified · original
 
 # StageMon 2027.1.7 — Windows
 
@@ -165,7 +165,7 @@ Apple Silicon passed read-only DMG application launch/normal close and monitor-e
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7
 
-## v2027.1.6 · 2026-10-24 · all · original
+## v2027.1.6 · 2026-10-24 · unspecified · original
 
 # StageMon 2027.1.6 — Windows
 
@@ -260,7 +260,7 @@ téléphone ou du réseau réel ne découle de cette maintenance.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.6
 
-## v2027.1.6 · 2026-10-24 · all · original
+## v2027.1.6 · 2026-10-24 · unspecified · original
 
 # StageMon 2027.1.6 — Windows
 
@@ -302,7 +302,7 @@ Mac source: `26ad85d1f08226317cecf654df978afdefa8657e`, branch `clarity/stagemon
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.6
 
-## v2027.1.5 · 2026-10-17 · all · original
+## v2027.1.5 · 2026-10-17 · unspecified · original
 
 StageMon 2027.1.5 — macOS Apple Silicon et Intel
 
@@ -369,7 +369,7 @@ Authenticode-signed. Existing macOS qualification is unchanged.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.5
 
-## v2027.1.4 · 2026-10-11 · windows · en
+## v2027.1.4 · 2026-10-11 · unspecified · en
 
 # StageMon 2027.1.4 — Windows
 
@@ -387,7 +387,7 @@ Commercial terms are unchanged. Read `QUALIFICATION-2027.1.4.md`, `release-manif
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.4
 
-## v2027.1.4 · 2026-10-11 · windows · fr
+## v2027.1.4 · 2026-10-11 · unspecified · fr
 
 # StageMon 2027.1.4 — Windows
 
@@ -405,7 +405,7 @@ Les conditions commerciales sont inchangées. Consulter `QUALIFICATION-2027.1.4.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.4
 
-## v2027.1.4 · 2026-10-11 · windows · original
+## v2027.1.4 · 2026-10-11 · unspecified · original
 
 # StageMon 2027.1.4 — Windows
 
@@ -446,7 +446,7 @@ Mac remains [2027.1.3](https://github.com/Mamat79/StageMon/releases/tag/v2027.1.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.4
 
-## v2027.1.3 · 2026-10-04 · all · en
+## v2027.1.3 · 2026-10-04 · unspecified · en
 
 # StageMon 2027.1.3 - shorter startup license reminder
 
@@ -461,7 +461,7 @@ Windows and macOS share the same licensing policy. Mac packages remain ad hoc, w
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.3
 
-## v2027.1.3 · 2026-10-04 · all · fr
+## v2027.1.3 · 2026-10-04 · unspecified · fr
 
 # StageMon 2027.1.3 - rappel de licence plus court
 
@@ -476,7 +476,7 @@ Windows et macOS partagent la même politique de licence. Les paquets Mac resten
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.3
 
-## v2027.1.3 · 2026-10-04 · all · original
+## v2027.1.3 · 2026-10-04 · unspecified · original
 
 # StageMon 2027.1.3
 
@@ -522,7 +522,7 @@ QUALIFICATION-2027.1.3 notices for the exact validation scope.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.3
 
-## v2027.1.2 · 2026-10-02 · all · en
+## v2027.1.2 · 2026-10-02 · unspecified · en
 
 # StageMon 2027.1.2 - Release notes and supplemental help
 
@@ -555,7 +555,7 @@ Website: https://silemio.com
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.2
 
-## v2027.1.2 · 2026-10-02 · all · fr
+## v2027.1.2 · 2026-10-02 · unspecified · fr
 
 # StageMon 2027.1.2 - Notes de version et complément d'aide
 
@@ -588,7 +588,7 @@ Site : https://silemio.com
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.2
 
-## v2027.1.2 · 2026-10-02 · all · original
+## v2027.1.2 · 2026-10-02 · unspecified · original
 
 <!-- stagemon-audit-delivery-20261002-v2027.1.2 -->
 # StageMon 2027.1.2
@@ -654,7 +654,7 @@ https://silemio.com
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.2
 
-## v2027.1.1 · 2026-09-28 · all · original
+## v2027.1.1 · 2026-09-28 · unspecified · original
 
 # StageMon 2027.1.1 — écoute téléphone en un geste
 
@@ -744,7 +744,7 @@ The M2 Codemagic build opened and closed the Apple Silicon product from the moun
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.1
 
-## v2027.1.0 · 2026-09-19 · all · original
+## v2027.1.0 · 2026-09-19 · unspecified · original
 
 # StageMon 2027.1.0 — Windows et macOS
 
@@ -827,7 +827,7 @@ outside this release.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.1.0
 
-## v2027.0.6 · 2026-09-08 · all · original
+## v2027.0.6 · 2026-09-08 · unspecified · original
 
 # StageMon 2027.0.6 — écoute téléphone
 
@@ -867,7 +867,7 @@ on-site validation. The macOS packages are neither signed nor notarized.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.6
 
-## v2027.0.4 · 2026-09-07 · all · original
+## v2027.0.4 · 2026-09-07 · unspecified · original
 
 # StageMon 2027.0.4 — Windows
 
@@ -936,7 +936,7 @@ are unchanged. The macOS 2027.0.3 packages are not modified.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.4
 
-## v2027.0.3 · 2026-09-07 · macos · original
+## v2027.0.3 · 2026-09-07 · unspecified · original
 
 Nouvelle livraison macOS fabriquée sur Mac mini M2 par Codemagic.
 
@@ -951,7 +951,7 @@ Les quatre assets ont été ajoutés par le build Codemagic tagué, puis les deu
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.3
 
-## v2027.0.2 · 2026-09-06 · windows · original
+## v2027.0.2 · 2026-09-06 · unspecified · original
 
 ## StageMon Windows 2027.0.2 — alerts-notices-20260907-r1
 
@@ -1005,7 +1005,7 @@ release. Close StageMon before updating; audio startup remains explicit.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.2
 
-## v2027.0.1 · 2026-09-05 · all · original
+## v2027.0.1 · 2026-09-05 · unspecified · original
 
 # StageMon 2027.0.1 — Windows et macOS / Windows and macOS
 
@@ -1064,7 +1064,7 @@ distribue aucun code source ni profil privé de recette.
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.1
 
-## v2027 · 2026-09-04 · all · original
+## v2027 · 2026-09-04 · unspecified · original
 
 # StageMon 2027 — Windows x64 et macOS
 
@@ -1121,7 +1121,7 @@ Source : https://github.com/Mamat79/StageMon/releases/tag/v2027.0.1
 
 Source : https://github.com/Mamat79/StageMon/releases/tag/v2027
 
-## v2026.3 · 2026-09-01 · windows · original
+## v2026.3 · 2026-09-01 · unspecified · original
 
 # StageMon 2026.3
 

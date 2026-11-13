@@ -1,6 +1,6 @@
 # Controller Studio — Notes de version / Release notes
 
-## v2026.7 · 2026-10-17 · all · original
+## v2026.7 · 2026-10-17 · unspecified · original
 
 # Controller Studio for LiveProfessor 2026.7 — Windows
 
@@ -41,7 +41,7 @@ SHA-256 des DMG :
 
 Source : https://github.com/Mamat79/Controller-Studio-for-LiveProfessor/releases/tag/v2026.7
 
-## v2026.6 · 2026-09-09 · all · original
+## v2026.6 · 2026-09-09 · unspecified · original
 
 ## Controller Studio for LiveProfessor V.2026.6
 
@@ -82,7 +82,7 @@ Open the DMG for your Mac and drag **Controller Studio for LiveProfessor** into 
 
 Source : https://github.com/Mamat79/Controller-Studio-for-LiveProfessor/releases/tag/v2026.6
 
-## v2026.5 · 2026-08-12 · windows · original
+## v2026.5 · 2026-08-12 · unspecified · original
 
 ## Français
 
@@ -120,7 +120,7 @@ Validation: 242 automated tests passed, Windows binaries and installer were buil
 
 Source : https://github.com/Mamat79/Controller-Studio-for-LiveProfessor/releases/tag/v2026.5
 
-## v2026.4 · 2026-08-10 · windows · original
+## v2026.4 · 2026-08-10 · unspecified · original
 
 ## Écran d'attente EC4 / EC4 waiting screen
 

@@ -1,6 +1,6 @@
 # Session Audio — Notes de version / Release notes
 
-## v1.0.2 · 2026-10-18 · windows · original
+## v1.0.2 · 2026-10-18 · unspecified · original
 
 # Session Audio 1.0.2 — Windows
 
@@ -59,7 +59,7 @@ Documentation et limites de cette préversion : https://github.com/Mamat79/Sessi
 
 Source : https://github.com/Mamat79/Session-Audio/releases/tag/v1.0.0-macos
 
-## v1.0.1 · 2026-10-10 · windows · original
+## v1.0.1 · 2026-10-10 · unspecified · original
 
 Session Audio 1.0.1 est une maintenance Windows consacrée à la fiabilité de la restauration. Elle n'ajoute pas de nouvelle fonction audio.
 
@@ -104,7 +104,7 @@ Les archives automatiques **Source code** proposées par GitHub correspondent à
 
 Source : https://github.com/Mamat79/Session-Audio/releases/tag/v1.0.1
 
-## v1.0.0 · 2026-08-09 · windows · original
+## v1.0.0 · 2026-08-09 · unspecified · original
 
 # Session Audio 1.0.0
 

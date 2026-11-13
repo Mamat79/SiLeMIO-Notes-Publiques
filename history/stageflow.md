@@ -1,6 +1,6 @@
 # StageFlow — Notes de version / Release notes
 
-## v2027.1.12 · 2026-11-09 · all · original
+## v2027.1.12 · 2026-11-09 · unspecified · original
 
 # StageFlow 2027.1.12
 
@@ -28,7 +28,7 @@ and suite controls remain accessible.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.12
 
-## v2027.1.11 · 2026-10-26 · all · original
+## v2027.1.11 · 2026-10-26 · unspecified · original
 
 # StageFlow 2027.1.11
 
@@ -91,7 +91,7 @@ Qualification Windows : actual Setup extracted, installed and checked with prese
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.11
 
-## v2027.1.10 · 2026-10-25 · all · original
+## v2027.1.10 · 2026-10-25 · unspecified · original
 
 # StageFlow 2027.1.10
 
@@ -170,7 +170,7 @@ Source Windows : `32c4890` ; produit Mac : `d3bcbd3` ; recette Mac : `1a5ca52`. 
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.10
 
-## v2027.1.10 · 2026-10-25 · all · original
+## v2027.1.10 · 2026-10-25 · unspecified · original
 
 # StageFlow 2027.1.10
 
@@ -249,7 +249,7 @@ Source Windows : `32c4890` ; produit Mac : `d3bcbd3` ; recette Mac : `1a5ca52`. 
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.10
 
-## v2027.1.9 · 2026-10-17 · all · original
+## v2027.1.9 · 2026-10-17 · unspecified · original
 
 StageFlow 2027.1.9 — Windows et macOS
 
@@ -310,7 +310,7 @@ Existing macOS packages declare macOS 14 minimum, self-contained .NET/ASP.NET 10
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.9
 
-## v2027.1.8 · 2026-10-12 · all · original
+## v2027.1.8 · 2026-10-12 · unspecified · original
 
 # StageFlow 2027.1.8 — Tableur et mise à jour volontaire
 
@@ -375,7 +375,7 @@ cca23c26b6467b716af739b7312ace29e8909480fe9f4922b343ef6125902955  StageFlow-2027
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.8
 
-## v2027.1.7 · 2026-10-11 · windows · original
+## v2027.1.7 · 2026-10-11 · unspecified · original
 
 # StageFlow 2027.1.7
 
@@ -407,7 +407,7 @@ Windows 2027.1.7 ; macOS reste/remains 2027.1.5. 31 nouveaux contrôles Office s
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.7
 
-## v2027.1.6 · 2026-10-11 · windows · original
+## v2027.1.6 · 2026-10-11 · unspecified · original
 
 # StageFlow 2027.1.6
 
@@ -439,7 +439,7 @@ Windows 2027.1.6 ; macOS remains 2027.1.5 in its existing release. Native Excel 
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.6
 
-## v2027.1.5 · 2026-10-11 · all · original
+## v2027.1.5 · 2026-10-11 · unspecified · original
 
 StageFlow **2027.1.5 for Windows** adds optional Monitoring and Notes tabs for each group, wedge/IEM circuits, printable group sheets and a voluntary two-way link with installed Windows desktop Excel. / **StageFlow 2027.1.5 pour Windows** ajoute Monitoring et Notes par groupe, circuits wedges/IEM, fiches imprimables et liaison volontaire avec Excel de bureau Windows.
 
@@ -455,7 +455,7 @@ StageFlow and the optional AutoCAD connector are free. Keep a backup of projects
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.5
 
-## v2027.1.3 · 2026-10-02 · all · original
+## v2027.1.3 · 2026-10-02 · unspecified · original
 
 # StageFlow 2027.1.3: audit supplement / complement d'audit
 
@@ -492,7 +492,7 @@ CI macOS : **399 PASS, 0 echec, 0 ignore**, sans filtre (Mac 39, Desktop Core 14
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.3
 
-## v2027.1.2 · 2026-09-28 · all · original
+## v2027.1.2 · 2026-09-28 · unspecified · original
 
 # StageFlow v2027.1.2 - Windows and macOS
 
@@ -540,7 +540,7 @@ EN: lot UX20261001 keeps version 2027.1.2. The Windows installer is the same fil
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.2
 
-## v2027.1.1 · 2026-09-24 · all · original
+## v2027.1.1 · 2026-09-24 · unspecified · original
 
 # StageFlow v2027.1.1 - Windows and macOS
 
@@ -558,7 +558,7 @@ Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.2
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.1
 
-## v2027.1.0 · 2026-09-19 · all · original
+## v2027.1.0 · 2026-09-19 · unspecified · original
 
 # StageFlow v2027.1.0 — Windows et macOS
 
@@ -641,7 +641,7 @@ acceptance is claimed.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.0
 
-## v2027.0.5 · 2026-09-07 · windows · original
+## v2027.0.5 · 2026-09-07 · unspecified · original
 
 # StageFlow v2027.0.5 - Windows
 
@@ -695,7 +695,7 @@ release does not modify the macOS 2027.0.4 package.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0.5
 
-## v2027.0.4 · 2026-09-07 · all · original
+## v2027.0.4 · 2026-09-07 · unspecified · original
 
 # StageFlow v2027.0.4 - Windows
 
@@ -763,7 +763,7 @@ does not modify the macOS 2027.0.3 packages.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0.4
 
-## v2027.0.3 · 2026-09-07 · macos · original
+## v2027.0.3 · 2026-09-07 · unspecified · original
 
 Nouvelle livraison macOS fabriquée sur Mac mini M2 par Codemagic.
 
@@ -778,7 +778,7 @@ Les quatre assets ont été ajoutés par le build Codemagic tagué, puis les deu
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0.3
 
-## v2027.0.2 · 2026-09-06 · windows · original
+## v2027.0.2 · 2026-09-06 · unspecified · original
 
 # StageFlow v2027.0.2 - Windows
 
@@ -957,7 +957,7 @@ not physical phone, show-network, projector or audio-interface acceptance.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0.2
 
-## v2027.0.1 · 2026-09-05 · all · original
+## v2027.0.1 · 2026-09-05 · unspecified · original
 
 # StageFlow v2027.0.1 — Windows et macOS
 
@@ -1037,7 +1037,7 @@ SiLeMIO / By Mamat----[]---
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0.1
 
-## v2027.0 · 2026-09-04 · all · original
+## v2027.0 · 2026-09-04 · unspecified · original
 
 # StageFlow v2027 · macOS
 
@@ -1120,7 +1120,7 @@ SiLeMIO / By Mamat----[]---
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.0
 
-## v2026.3 · 2026-09-01 · windows · original
+## v2026.3 · 2026-09-01 · unspecified · original
 
 # StageFlow 2026.3
 
@@ -1197,7 +1197,7 @@ both languages use **show** for the project name.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2026.3
 
-## v2026.2 · 2026-08-31 · windows · original
+## v2026.2 · 2026-08-31 · unspecified · original
 
 # StageFlow 2026.2
 
@@ -1231,7 +1231,7 @@ SHA-256. StageFlow reste gratuit et facultatif.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2026.2
 
-## v2026.1.1 · 2026-08-31 · windows · original
+## v2026.1.1 · 2026-08-31 · unspecified · original
 
 StageFlow est l’outil gratuit de la suite SiLeMIO pour préparer un patch, organiser les groupes, imprimer une page A4 par groupe et dessiner un plan de scène. Il fonctionne seul, hors ligne, et peut aussi partager le même projet avec les autres applications compatibles.
 
@@ -1249,7 +1249,7 @@ StageFlow is the free SiLeMIO tool for building patches, organizing groups, prin
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2026.1.1
 
-## v2026.1 · 2026-08-31 · windows · original
+## v2026.1 · 2026-08-31 · unspecified · original
 
 ## Français
 
@@ -1283,7 +1283,7 @@ SHA-256: `A9249BAE10E872CB144426AD978A328CD66D4C9FC8955B6B8D8000DF215215F7`
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v2026.1
 
-## v0.1.1 · 2026-08-31 · windows · original
+## v0.1.1 · 2026-08-31 · unspecified · original
 
 ## FR
 
@@ -1313,7 +1313,7 @@ Windows installer is currently unsigned.
 
 Source : https://github.com/Mamat79/StageFlow/releases/tag/v0.1.1
 
-## v0.1.0 · 2026-08-31 · windows · original
+## v0.1.0 · 2026-08-31 · unspecified · original
 
 Première version publique de SiLeMIO StageFlow pour Windows. Application gratuite, autonome, bilingue FR/EN, avec éditeur de patch, patch commun et groupes, export Excel A4, plan de scène, projet partagé .stageflow et connecteur AutoCAD 2026 optionnel.\n\nSHA-256 de l’installateur : 4A6AC24120C22EE791D88709EBA96F15370E96DF7F2C2024F5E5DF0AE4533FA8\n\nL’installateur n’est pas encore signé numériquement ; Windows peut afficher SmartScreen.
 

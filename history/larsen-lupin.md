@@ -1,6 +1,6 @@
 # Larsen Lupin — Notes de version / Release notes
 
-## v2027.9 · 2026-11-10 · all · original
+## v2027.9 · 2026-11-10 · unspecified · original
 
 ### Français
 
@@ -22,7 +22,7 @@ Le préavis des utilisateurs gratuits existants commence le 11 novembre 2026 à 
 
 Source : https://github.com/Mamat79/SiLeMIO-Larsen/releases/tag/v2027.9
 
-## v2027.9 · 2026-11-10 · all · original
+## v2027.9 · 2026-11-10 · unspecified · original
 
 ### Français
 

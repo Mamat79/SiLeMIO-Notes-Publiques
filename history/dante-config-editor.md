@@ -1,6 +1,6 @@
 # Dante Config Editor — Notes de version / Release notes
 
-## v2027.3 · 2026-11-12 · all · original
+## v2027.3 · 2026-11-12 · unspecified · original
 
 # Dante Config Editor 2027.3
 
@@ -56,7 +56,7 @@ DCE 2027.3 starts with a 30-day free trial from first launch. After the trial, a
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
 
-## v2027.3 · 2026-11-12 · all · en
+## v2027.3 · 2026-11-12 · unspecified · en
 
 # Dante Config Editor 2027.3
 
@@ -85,7 +85,7 @@ DCE 2027.3 starts with a 30-day free trial from first launch. After the trial, a
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
 
-## v2027.3 · 2026-11-12 · all · fr
+## v2027.3 · 2026-11-12 · unspecified · fr
 
 # Dante Config Editor 2027.3
 
@@ -114,7 +114,7 @@ La 2027.3 comprend la préparation XML hors ligne avec la banque de machines, le
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
 
-## v2027.3 · 2026-11-12 · all · original
+## v2027.3 · 2026-11-12 · unspecified · original
 
 # Dante Config Editor 2027.3
 
@@ -170,7 +170,7 @@ DCE 2027.3 starts with a 30-day free trial from first launch. After the trial, a
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
 
-## v2027.2.15 · 2026-11-09 · all · en
+## v2027.2.15 · 2026-11-09 · unspecified · en
 
 # Dante Config Editor 2027.2.15
 
@@ -186,7 +186,7 @@ zoom, keyboard navigation, Easy patch and the RX-to-TX list remain available.
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.15
 
-## v2027.2.15 · 2026-11-09 · all · fr
+## v2027.2.15 · 2026-11-09 · unspecified · fr
 
 # Dante Config Editor 2027.2.15
 
@@ -202,7 +202,7 @@ densités, le zoom, le clavier, Easy patch et la liste RX vers TX restent dispon
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.15
 
-## v2027.2.15 · 2026-11-09 · all · original
+## v2027.2.15 · 2026-11-09 · unspecified · original
 
 # Dante Config Editor 2027.2.15
 
@@ -216,7 +216,7 @@ Windows x64, macOS Apple Silicon and Intel packages include SHA-256 checksums an
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.15
 
-## v2027.2.14 · 2026-11-06 · all · en
+## v2027.2.14 · 2026-11-06 · unspecified · en
 
 # Dante Config Editor 2027.2.14
 
@@ -246,7 +246,7 @@ Windows and Mac checks and their limits are documented separately in this releas
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.14
 
-## v2027.2.14 · 2026-11-06 · all · fr
+## v2027.2.14 · 2026-11-06 · unspecified · fr
 
 # Dante Config Editor 2027.2.14
 
@@ -278,7 +278,7 @@ Les contrôles Windows, Mac et les limites sont détaillés dans les documents d
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.14
 
-## v2027.2.14 · 2026-11-06 · all · original
+## v2027.2.14 · 2026-11-06 · unspecified · original
 
 # Dante Config Editor 2027.2.14 — Windows et macOS
 
@@ -304,7 +304,7 @@ The self-contained Windows installer was installed and launched on Windows 11. S
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.14
 
-## v2027.2.13 · 2026-10-28 · all · en
+## v2027.2.13 · 2026-10-28 · unspecified · en
 
 # Dante Config Editor 2027.2.13 — Windows
 
@@ -340,7 +340,7 @@ available until their replacements qualify.
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.13
 
-## v2027.2.13 · 2026-10-28 · all · fr
+## v2027.2.13 · 2026-10-28 · unspecified · fr
 
 # Dante Config Editor 2027.2.13 — Windows
 
@@ -378,7 +378,7 @@ disponibles jusqu'à qualification de leurs remplaçants.
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.13
 
-## v2027.2.13 · 2026-10-28 · all · original
+## v2027.2.13 · 2026-10-28 · unspecified · original
 
 # Dante Config Editor 2027.2.13 — Windows
 
@@ -467,7 +467,7 @@ Intel is cross-built and statically checked, without physical Intel Mac executio
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.13
 
-## v2027.2.12 · 2026-10-26 · all · en
+## v2027.2.12 · 2026-10-26 · unspecified · en
 
 # Dante Config Editor 2027.2.12 — Windows and macOS
 
@@ -481,7 +481,7 @@ Mac:1000 fresh passing tests on this product. Nonvisual Apple Silicon startup/XM
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.12
 
-## v2027.2.12 · 2026-10-26 · all · fr
+## v2027.2.12 · 2026-10-26 · unspecified · fr
 
 # Dante Config Editor 2027.2.12 — Windows et macOS
 
@@ -495,7 +495,7 @@ Mac : 1000 tests réussis sur le nouveau produit. Les scènes démarrage/XML/Sta
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.12
 
-## v2027.2.12 · 2026-10-26 · all · original
+## v2027.2.12 · 2026-10-26 · unspecified · original
 
 # Dante Config Editor 2027.2.12 — Windows et macOS
 
@@ -523,7 +523,7 @@ Mac:1000 fresh passing tests on this product. Nonvisual Apple Silicon startup/XM
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.12
 
-## v2027.2.10 · 2026-10-25 · macos · original
+## v2027.2.10 · 2026-10-25 · unspecified · original
 
 # Dante Config Editor — macOS 2027.2.10
 
@@ -560,7 +560,7 @@ Mac qualification reuses 953 passing product tests (896 Core and 57 Mac interfac
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.10
 
-## v2027.2.9 · 2026-10-24 · all · original
+## v2027.2.9 · 2026-10-24 · unspecified · original
 
 ## Windows 2027.2.9
 
@@ -602,7 +602,7 @@ Mac source `938075d78c99e7e46c895727aa160338041437d2`, branch `fix/mac-trial-lic
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.9
 
-## v2027.2.8 · 2026-10-17 · all · original
+## v2027.2.8 · 2026-10-17 · unspecified · original
 
 # Dante Config Editor 2027.2.8 — Windows et macOS
 
@@ -640,7 +640,7 @@ V1 remains the default project workflow. V2 requires an explicit new local copy,
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.8
 
-## v2027.2.7 · 2026-10-11 · all · original
+## v2027.2.7 · 2026-10-11 · unspecified · original
 
 Dante Config Editor **2027.2.7** — Windows x64, macOS Apple Silicon and macOS Intel.
 
@@ -662,7 +662,7 @@ Windows Setup and application are unsigned. No real Dante Controller import or D
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.7
 
-## v2027.2.6 · 2026-10-04 · all · original
+## v2027.2.6 · 2026-10-04 · unspecified · original
 
 ## Français
 
@@ -715,7 +715,7 @@ Previous releases remain available.
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.6
 
-## v2027.2.5 · 2026-10-02 · all · original
+## v2027.2.5 · 2026-10-02 · unspecified · original
 
 ## Français
 
@@ -745,7 +745,7 @@ Dante Config Editor remains an offline preparation tool and does not start audio
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.5
 
-## v2027.2.4 · 2026-09-29 · all · en
+## v2027.2.4 · 2026-09-29 · unspecified · en
 
 ## UX20261001 update - published October 1, 2026
 
@@ -1044,7 +1044,7 @@ trial. Commercial Windows signing and Apple notarization are outside this update
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.4
 
-## v2027.2.4 · 2026-09-29 · all · fr
+## v2027.2.4 · 2026-09-29 · unspecified · fr
 
 ## Mise a jour UX20261001 - publication du 1 octobre 2026
 
@@ -1354,7 +1354,7 @@ commerciale Windows et la notarisation Apple ne font pas partie de cette mise à
 
 Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.2.4
 
-## v2027.2.4 · 2026-09-29 · all · original
+## v2027.2.4 · 2026-09-29 · unspecified · original
 
 ## Mise a jour UX20261001 - publication du 1 octobre 2026
 

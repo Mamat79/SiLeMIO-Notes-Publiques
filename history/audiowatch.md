@@ -57,7 +57,7 @@ The packages were built from private commit 89a65afb1522deef4846dd30e58e805b532a
 
 Source : https://github.com/Mamat79/AudioWatch/releases/tag/v0.1.20-macos
 
-## v0.1.19 · 2026-10-10 · all · en
+## v0.1.19 · 2026-10-10 · unspecified · en
 
 AudioWatch 0.1.19 — bêta / beta
 
@@ -79,7 +79,7 @@ The public tag references the existing public distribution history. GitHub-gener
 
 Source : https://github.com/Mamat79/AudioWatch/releases/tag/v0.1.19
 
-## v0.1.19 · 2026-10-10 · all · original
+## v0.1.19 · 2026-10-10 · unspecified · original
 
 AudioWatch 0.1.19 — bêta / beta
 
@@ -101,7 +101,7 @@ The public tag references the existing public distribution history. GitHub-gener
 
 Source : https://github.com/Mamat79/AudioWatch/releases/tag/v0.1.19
 
-## v0.1.18 · 2026-09-29 · all · original
+## v0.1.18 · 2026-09-29 · unspecified · original
 
 AudioWatch 0.1.18 beta — Windows x64 and macOS.
 

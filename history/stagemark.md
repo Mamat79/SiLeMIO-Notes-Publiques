@@ -1,6 +1,6 @@
 # StageMark — Notes de version / Release notes
 
-## v2027.1.7 · 2026-10-26 · all · en
+## v2027.1.7 · 2026-10-26 · unspecified · en
 
 # StageMark 2027.1.7 — updated interface
 
@@ -26,7 +26,7 @@ Windows qualification: actual locally built Setup extracted and installed after 
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.7
 
-## v2027.1.7 · 2026-10-26 · all · fr
+## v2027.1.7 · 2026-10-26 · unspecified · fr
 
 # StageMark 2027.1.7 — nouvelle interface
 
@@ -53,7 +53,7 @@ L'installeur Windows a été construit localement, extrait et installé sur un p
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.7
 
-## v2027.1.7 · 2026-10-26 · all · original
+## v2027.1.7 · 2026-10-26 · unspecified · original
 
 # StageMark 2027.1.7 — updated interface
 
@@ -118,7 +118,7 @@ Mac 2027.1.7 has separate Apple Silicon and Intel downloads and Mac-specific gui
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.7
 
-## v2027.1.6 · 2026-10-24 · all · original
+## v2027.1.6 · 2026-10-24 · unspecified · original
 
 StageMark 2027.1.6 pour Windows clarifie le parcours d’essai gratuit et la licence permanente, en français et en anglais. Le bouton permettant de continuer reste visible dans la fenêtre de licence, dont la partie centrale peut défiler.
 
@@ -160,7 +160,7 @@ Mac source `77ffb7c3ab5940c29d5f846f7b43a6ead467d97f`, branch `fix/macos-intel-p
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.6
 
-## v2027.1.5 · 2026-10-17 · all · original
+## v2027.1.5 · 2026-10-17 · unspecified · original
 
 # StageMark 2027.1.5 — Windows et Mac Apple Silicon
 
@@ -220,7 +220,7 @@ The unchanged ARM Mac package declares macOS 12 minimum. Its producer reported 1
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.5
 
-## v2027.1.4 · 2026-10-17 · macos · original
+## v2027.1.4 · 2026-10-17 · unspecified · original
 
 StageMark 2027.1.4 — macOS Apple Silicon uniquement
 
@@ -236,7 +236,7 @@ Les vérifications automatisées, les lancements masqués et les inspections ne 
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.4
 
-## v2027.1.3 · 2026-10-10 · all · en
+## v2027.1.3 · 2026-10-10 · unspecified · en
 
 # StageMark 2027.1.3 — align and distribute
 
@@ -276,7 +276,7 @@ On Apple Silicon, native checks use a hidden window: React loading, safety contr
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.3
 
-## v2027.1.3 · 2026-10-10 · all · fr
+## v2027.1.3 · 2026-10-10 · unspecified · fr
 
 # StageMark 2027.1.3 — alignement et répartition
 
@@ -316,7 +316,7 @@ Sur Apple Silicon, les contrôles natifs utilisent une fenêtre cachée : charge
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.3
 
-## v2027.1.3 · 2026-10-10 · all · original
+## v2027.1.3 · 2026-10-10 · unspecified · original
 
 ## Français
 
@@ -396,7 +396,7 @@ On Apple Silicon, native checks use a hidden window: React loading, safety contr
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.3
 
-## v2027.1.2 · 2026-10-04 · all · en
+## v2027.1.2 · 2026-10-04 · unspecified · en
 
 # StageMark 2027.1.2
 
@@ -408,7 +408,7 @@ Android companion: build 18 unchanged. macOS delivery uses Codemagic; Apple Sili
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.2
 
-## v2027.1.2 · 2026-10-04 · all · fr
+## v2027.1.2 · 2026-10-04 · unspecified · fr
 
 # StageMark 2027.1.2
 
@@ -420,7 +420,7 @@ Compagnon Android : build 18 inchangé. Livraison macOS par Codemagic ; qualific
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.2
 
-## v2027.1.2 · 2026-10-04 · all · original
+## v2027.1.2 · 2026-10-04 · unspecified · original
 
 ## Français
 
@@ -464,7 +464,7 @@ This public repository contains distribution documentation, not private source c
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.2
 
-## v2027.1.1 · 2026-10-02 · all · en
+## v2027.1.1 · 2026-10-02 · unspecified · en
 
 # StageMark 2027.1.1 - October 2, 2026 audit fixes
 
@@ -491,7 +491,7 @@ Integrated FR/EN help is updated. The previously approved PDF batch is preserved
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.1
 
-## v2027.1.1 · 2026-10-02 · all · fr
+## v2027.1.1 · 2026-10-02 · unspecified · fr
 
 # StageMark 2027.1.1 - correctifs de l'audit du 2 octobre 2026
 
@@ -518,7 +518,7 @@ L'aide intégrée FR/EN est actualisée. Le lot PDF précédemment approuvé est
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.1
 
-## v2027.1.1 · 2026-10-02 · all · original
+## v2027.1.1 · 2026-10-02 · unspecified · original
 
 ## FR
 StageMark 2027.1.1 : correctifs d'audit, protection des documents et des editions LIVE/mobile, restauration protegee de la bibliotheque, calibration annulable, terminologie et diagnostics volontaires.
@@ -565,7 +565,7 @@ DMG non signes et non notarises / DMGs unsigned and not notarized.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.1
 
-## v2027.1 · 2026-09-19 · all · en
+## v2027.1 · 2026-09-19 · unspecified · en
 
 # StageMark 2027.1.0
 
@@ -613,7 +613,7 @@ Approved PDF guides/manuals and Android build 18 are unchanged and were not rege
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1
 
-## v2027.1 · 2026-09-19 · all · fr
+## v2027.1 · 2026-09-19 · unspecified · fr
 
 # StageMark 2027.1.0
 
@@ -661,7 +661,7 @@ Guides et notices PDF approuvés et APK Android build 18 conservés sans modific
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1
 
-## v2027.1 · 2026-09-19 · all · original
+## v2027.1 · 2026-09-19 · unspecified · original
 
 # StageMark 2027.1.0
 
@@ -724,7 +724,7 @@ Approved PDF guides/manuals and Android build 18 are unchanged and were not rege
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1
 
-## v2027.0.11 · 2026-09-14 · all · original
+## v2027.0.11 · 2026-09-14 · unspecified · original
 
 # StageMark 2027.0.11
 
@@ -756,7 +756,7 @@ Intel and Apple Silicon Mac 2027.0.11 packages are available after Codemagic bui
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.11
 
-## v2027.0.10 · 2026-09-13 · all · original
+## v2027.0.10 · 2026-09-13 · unspecified · original
 
 # StageMark 2027.0.10 — traits et plans réutilisables
 
@@ -788,7 +788,7 @@ Windows x64 package checks passed. Updated 16-page FR/EN manuals included. Unsig
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.10
 
-## v2027.0.9 · 2026-09-11 · all · original
+## v2027.0.9 · 2026-09-11 · unspecified · original
 
 **Mise à jour macOS : Intel et Apple Silicon 2027.0.9 disponibles et SHA-256 vérifiés. / macOS update: Intel and Apple Silicon 2027.0.9 available, SHA-256 verified.** [Livraison Mac / Mac delivery](https://github.com/Mamat79/StageMark/releases/download/v2027.0.9/RELEASE_MACOS_2027.0.9.md).
 
@@ -817,7 +817,7 @@ Choose phone or XREAL explicitly; the SDK reports the model when available. The 
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.9
 
-## v2027.0.8 · 2026-09-11 · all · original
+## v2027.0.8 · 2026-09-11 · unspecified · original
 
 # StageMark 2027.0.8 — calibration AR au sol ou sur pied
 
@@ -849,7 +849,7 @@ Use Desktop 2027.0.8 with APK 15 for raised targets; old APKs receive no raised 
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.8
 
-## v2027.0.7 · 2026-09-11 · all · original
+## v2027.0.7 · 2026-09-11 · unspecified · original
 
 # StageMark 2027.0.7 — atelier de dessin
 
@@ -879,7 +879,7 @@ Keep a project copy for older versions, which may ignore added appearance fields
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.7
 
-## v2027.0.6 · 2026-09-09 · all · original
+## v2027.0.6 · 2026-09-09 · unspecified · original
 
 # StageMark 2027.0.6 — préparer, configurer, exploiter
 
@@ -921,7 +921,7 @@ AR remains a development preview. A cross and live colour changes were observed 
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.6
 
-## v2027.0.5 · 2026-09-08 · all · original
+## v2027.0.5 · 2026-09-08 · unspecified · original
 
 # StageMark AR 0.1.1 build 7 — caméra téléphone et veille
 
@@ -959,13 +959,13 @@ Install the APK above over the previous app and check build 7. Capture A/B/C, en
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.5
 
-## v2027.0.4 · 2026-09-07 · all · original
+## v2027.0.4 · 2026-09-07 · unspecified · original
 
 Windows release 2027.0.4. SHA-256 fourni dans le fichier .sha256. Source conservée dans le dépôt privé StageMark-Source.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.4
 
-## v2027.0.3 · 2026-09-07 · macos · original
+## v2027.0.3 · 2026-09-07 · unspecified · original
 
 Nouvelle livraison macOS fabriquée sur Mac mini M2 par Codemagic.
 
@@ -979,7 +979,7 @@ Les quatre assets ont été ajoutés par le build Codemagic tagué, puis les deu
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.3
 
-## v2027.0.2 · 2026-09-07 · windows · original
+## v2027.0.2 · 2026-09-07 · unspecified · original
 
 # StageMark 2027 — corrective Windows 2027.0.2
 
@@ -1108,7 +1108,7 @@ or private data is included in the distribution repository.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.2
 
-## v2027.0.1 · 2026-09-05 · windows · original
+## v2027.0.1 · 2026-09-05 · unspecified · original
 
 # StageMark 2027 — corrective Windows 2027.0.1
 
@@ -1197,7 +1197,7 @@ application source or private data is distributed.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.0.1
 
-## v2027 · 2026-09-04 · all · original
+## v2027 · 2026-09-04 · unspecified · original
 
 # StageMark 2027
 
@@ -1252,7 +1252,7 @@ included in this distribution.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2027
 
-## v2026.9.3 · 2026-09-02 · all · original
+## v2026.9.3 · 2026-09-02 · unspecified · original
 
 # StageMark 2026.9.3
 
@@ -1269,7 +1269,7 @@ l’application, les raccourcis, les installeurs et la documentation.
 
 Source : https://github.com/Mamat79/StageMark/releases/tag/v2026.9.3
 
-## v2026.9.2 · 2026-09-01 · all · original
+## v2026.9.2 · 2026-09-01 · unspecified · original
 
 # StageMark 2026.9.2
 
