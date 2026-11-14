@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "445285621",
+    "tag": "v2027.1.14",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.14",
+    "publishedAt": "2026-11-14T12:45:25Z",
+    "observedAt": "2026-11-14T12:45:43.413Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageFlow 2027.1.14\n\n## Français\n\nSous Windows, **Importer des fiches…** et **Liste de matériel…** sont accessibles directement dans la barre du haut. Si le modèle local est absent ou désactivé, le bouton d’import ouvre sa configuration. Une fois le modèle prêt, il ouvre le sélecteur de fiches.\n\nLa liste de matériel reprend le patch et le monitoring. Modifiez les lignes, puis exportez en Word, ODT ou PDF.\n\n## English\n\nOn Windows, **Import technical riders…** and **Equipment list…** are available directly in the main toolbar. If the local model is missing or disabled, the import button opens its settings. Once the model is ready, the button opens the file picker.\n\nThe equipment list uses the patch and monitor circuits. Edit the rows and export to Word, ODT or PDF.",
+    "contentSha256": "934e844f8e25365c033306f7daaa7e13a4c2af67095375adf878349051335a9c"
+  },
+  {
     "releaseId": "445213564",
     "tag": "v2027.1.13",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.13",

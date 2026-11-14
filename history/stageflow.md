@@ -1,5 +1,23 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.14 · 2026-11-14 · unspecified · original
+
+# StageFlow 2027.1.14
+
+## Français
+
+Sous Windows, **Importer des fiches…** et **Liste de matériel…** sont accessibles directement dans la barre du haut. Si le modèle local est absent ou désactivé, le bouton d’import ouvre sa configuration. Une fois le modèle prêt, il ouvre le sélecteur de fiches.
+
+La liste de matériel reprend le patch et le monitoring. Modifiez les lignes, puis exportez en Word, ODT ou PDF.
+
+## English
+
+On Windows, **Import technical riders…** and **Equipment list…** are available directly in the main toolbar. If the local model is missing or disabled, the import button opens its settings. Once the model is ready, the button opens the file picker.
+
+The equipment list uses the patch and monitor circuits. Edit the rows and export to Word, ODT or PDF.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.14
+
 ## v2027.1.13 · 2026-11-14 · unspecified · original
 
 # StageFlow 2027.1.13
