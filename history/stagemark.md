@@ -1,5 +1,19 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.8 · 2026-11-14 · unspecified · original
+
+# StageMark 2027.1.8
+
+## Français
+
+Le panneau **Patch** affiche le plan de référence fourni par StageFlow pour le groupe sélectionné. Ouvrez un projet StageFlow local enregistré, puis choisissez le groupe à préparer. Le plan s’affiche avec ses repères indicatifs lorsqu’ils sont présents. Vous pouvez le consulter pendant le placement et la préparation du plateau. La projection utilise le plan et les réglages de calibration du projet StageMark.
+
+## English
+
+The **Patch** panel displays the StageFlow reference plot for the selected group. Open a saved local StageFlow project, then select the group you are preparing. The plot shows any indicative markers stored alongside it. Use the reference while placing equipment and preparing the stage. Projection uses the StageMark plan and its calibration settings.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.8
+
 ## v2027.1.7 · 2026-10-26 · unspecified · en
 
 # StageMark 2027.1.7 — updated interface

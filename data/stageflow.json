@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "445213564",
+    "tag": "v2027.1.13",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.13",
+    "publishedAt": "2026-11-14T10:38:04Z",
+    "observedAt": "2026-11-14T10:43:29.641Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageFlow 2027.1.13 · Windows\n\nCette livraison est disponible pour Windows x64. StageFlow 2027.1.12 reste disponible sur Mac pendant la recette.\nThis release is available for Windows x64. StageFlow 2027.1.12 remains available for Mac during qualification.\n\n# StageFlow 2027.1.13\n\n## Français\n\n**Import automatique des fiches techniques.** Sélectionnez plusieurs PDF ou classeurs XLSX. Vérifiez le patch principal, les retours, les notes et la page du plan dans l’aperçu avant de créer les groupes. Donnez le même nom aux fiches d’un même artiste pour les réunir. StageFlow propose d’agrandir le projet si un patch utilise une paire au-delà de sa capacité actuelle. Le repère **Import auto** reste visible dans la liste des groupes.\n\n**Modèle local en option.** Dans le menu Fichier, choisissez le dossier où télécharger Qwen3 1.7B Q4_K_M (1,28 Go). L’analyse s’effectue sur votre ordinateur. Les réglages permettent de désactiver la fonction et de retirer le modèle téléchargé par StageFlow.\n\n**Plans par groupe.** La page PDF choisie s’ouvre comme image de référence dans StageFlow et dans le panneau Patch de StageMark avec un projet local enregistré. Sur Windows, choisissez AutoCAD complet ou LT pour ouvrir le DXF exporté. Gardez le fichier PNG lié à côté du DXF.\n\n**Liste de matériel.** La commande du menu Fichier reprend les références du patch et les quantités du monitoring. Ajustez le tableau, choisissez entre le besoin maximal par référence pour des passages successifs et le cumul pour des groupes équipés simultanément, puis exportez en Word, ODT ou PDF.\n\n## English\n\n**Automatic technical rider import.** Select several PDFs or XLSX workbooks. Review the main patch, monitor circuits, notes and stage plot page before adding groups. Give riders for the same artist the same group name to combine them. StageFlow offers to expand the project when an imported channel exceeds its current capacity. The **Auto import** label stays visible in the group list.\n\n**Optional local model.** Use the File menu to choose where to download Qwen3 1.7B Q4_K_M (1.28 GB). Analysis runs on your computer. You can disable the feature and remove the model downloaded by StageFlow in its settings.\n\n**Stage plots by group.** The selected PDF page opens as a reference image in StageFlow and in the StageMark Patch panel for a saved local StageFlow project. On Windows, choose AutoCAD or AutoCAD LT to open the exported DXF. Keep the linked PNG next to the DXF.\n\n**Equipment list.** The File menu command collects patch references and monitor quantities. Edit the table, choose between peak per-model requirements for successive acts and combined quantities for simultaneous setups, then export to Word, ODT or PDF.",
+    "contentSha256": "9f8d4f9435ce88c424fd49cb6fe87fe5395de80252be0431489576aec4bdd007"
+  },
+  {
     "releaseId": "439561946",
     "tag": "v2027.1.12",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.12",
