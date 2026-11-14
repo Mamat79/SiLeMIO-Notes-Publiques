@@ -2,6 +2,42 @@
 
 ## v2027.1.13 · 2026-11-14 · unspecified · original
 
+# StageFlow 2027.1.13
+
+Disponible pour Windows x64 et macOS (Apple Silicon et Intel).
+
+Available for Windows x64 and macOS (Apple Silicon and Intel).
+
+## Français
+
+**Import automatique des fiches techniques.** Sélectionnez plusieurs PDF ou classeurs XLSX. Vérifiez le patch principal, les retours, les notes et la page du plan dans l’aperçu avant de créer les groupes. Donnez le même nom aux fiches d’un même artiste pour les réunir. StageFlow propose d’agrandir le projet si un patch utilise une paire au-delà de sa capacité actuelle. Le repère **Import auto** reste visible dans la liste des groupes.
+
+**Modèle local en option.** Dans le menu Fichier, choisissez le dossier où télécharger Qwen3 1.7B Q4_K_M (1,28 Go). L’analyse s’effectue sur votre ordinateur. Les réglages permettent de désactiver la fonction et de retirer le modèle téléchargé par StageFlow.
+
+**Plans par groupe.** La page PDF choisie s’ouvre comme image de référence dans StageFlow et dans le panneau Patch de StageMark avec un projet local enregistré. Sur Windows, choisissez AutoCAD complet ou LT pour ouvrir le DXF exporté. Gardez le fichier PNG lié à côté du DXF.
+
+**Liste de matériel.** La commande du menu Fichier reprend les références du patch et les quantités du monitoring. Ajustez le tableau, choisissez entre le besoin maximal par référence pour des passages successifs et le cumul pour des groupes équipés simultanément, puis exportez en Word, ODT ou PDF.
+
+## English
+
+**Automatic technical rider import.** Select several PDFs or XLSX workbooks. Review the main patch, monitor circuits, notes and stage plot page before adding groups. Give riders for the same artist the same group name to combine them. StageFlow offers to expand the project when an imported channel exceeds its current capacity. The **Auto import** label stays visible in the group list.
+
+**Optional local model.** Use the File menu to choose where to download Qwen3 1.7B Q4_K_M (1.28 GB). Analysis runs on your computer. You can disable the feature and remove the model downloaded by StageFlow in its settings.
+
+**Stage plots by group.** The selected PDF page opens as a reference image in StageFlow and in the StageMark Patch panel for a saved local StageFlow project. On Windows, choose AutoCAD or AutoCAD LT to open the exported DXF. Keep the linked PNG next to the DXF.
+
+**Equipment list.** The File menu command collects patch references and monitor quantities. Edit the table, choose between peak per-model requirements for successive acts and combined quantities for simultaneous setups, then export to Word, ODT or PDF.
+
+## Qualification macOS / macOS qualification
+
+Apple Silicon : démarrage depuis le DMG monté, projet de test ouvert et fermeture normale. Les outils PDF, OCR et PNG ont été testés en arm64 et en x64 sous Rosetta. Le démarrage de l’application Intel complète sur un Mac Intel physique reste à vérifier. Les DMG sont signés ad hoc, sans notarisation Apple.
+
+Apple Silicon: the mounted DMG launched, opened a test project and quit normally. PDF reading, OCR and PNG rendering ran natively on arm64 and under Rosetta on x64. Full application startup on a physical Intel Mac remains unverified. The DMGs are ad hoc signed and lack Apple notarization.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.13
+
+## v2027.1.13 · 2026-11-14 · unspecified · original
+
 # StageFlow 2027.1.13 · Windows
 
 Cette livraison est disponible pour Windows x64. StageFlow 2027.1.12 reste disponible sur Mac pendant la recette.
