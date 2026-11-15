@@ -1,5 +1,27 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.16 · 2026-11-15 · unspecified · original
+
+# StageFlow 2027.1.16
+
+## Français
+
+Le lecteur repère les tableaux de patch dont la colonne est intitulée « Microphone/DI » et conserve les noms de micros qui s’étendent sur deux lignes. Les demandes d’in-ear réparties sur plusieurs lignes sont reprises en entier dans les notes du groupe, y compris les précisions comme « de secours ».
+
+Les demandes explicites de retours restent dans les notes quand le plan de scène figure sur la même page. La recette Windows a traité trois PDF en un lot avec le modèle local et vérifié les groupes dans le projet enregistré.
+
+Le démarrage depuis le DMG a été vérifié sur Apple Silicon. Le DMG Intel a passé les contrôles d’architecture et d’intégrité.
+
+## English
+
+The reader recognizes input tables with a “Microphone/DI” column and preserves microphone names that wrap onto a second line. In-ear requests spanning multiple lines are retained in the group notes, including details such as “for backup”.
+
+Explicit monitor requests stay in the notes when the stage plot appears on the same page. Windows testing used the local model to process three PDFs in one batch and verified the groups in the saved project.
+
+Startup from the Apple Silicon DMG was verified. The Intel DMG passed architecture and integrity checks.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.16
+
 ## v2027.1.15 · 2026-11-15 · unspecified · original
 
 # StageFlow 2027.1.15
