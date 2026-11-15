@@ -1,5 +1,31 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.15 · 2026-11-15 · unspecified · original
+
+# StageFlow 2027.1.15
+
+## Français
+
+**Importer des fiches…** permet de préparer un lot de PDF et de classeurs XLSX, puis de lancer l’analyse. La fenêtre affiche le pourcentage du lot par étape et le fichier en cours. Dans l’aperçu, utilisez le même nom pour les fiches d’un même groupe. Validez un patch principal et, si disponible, un plan de scène. Les retours et notes complètent la fiche du groupe.
+
+Le lecteur reconnaît les listes de canaux en espagnol et les tableaux avec colonnes Instrument et Micro. Les lignes clairement identifiées comme de l’accueil sont placées dans les notes.
+
+Les fiches d’un même groupe sont réunies lorsque leurs noms diffèrent seulement par la casse ou les accents. Les demandes de retours sans numéro de circuit explicite restent dans les notes du groupe.
+
+Recette Windows avec le modèle local sur trois PDF en un lot. Démarrage du DMG vérifié sur Apple Silicon et contrôles d’architecture et d’intégrité sur le DMG Intel.
+
+## English
+
+Use **Import technical riders…** to queue PDF and XLSX files before starting analysis. The window shows progress by completed step and identifies the current file. In the preview, give riders for the same act the same group name. Review one main patch and an optional stage plot. Monitor requests and notes complete the group.
+
+The reader recognizes Spanish channel lists and tables with Instrument and Mic columns. Clearly identified hospitality rows go into the group notes.
+
+Riders for the same act are merged when their names differ only in case or accents. Monitor requests without an explicit circuit number remain in the group notes.
+
+Windows was tested with three PDFs in one batch using the local model. Startup from the Apple Silicon DMG and architecture and integrity checks for the Intel DMG passed.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.15
+
 ## v2027.1.14 · 2026-11-14 · unspecified · original
 
 # StageFlow 2027.1.14
