@@ -1,5 +1,131 @@
 # Dante Config Editor — Notes de version / Release notes
 
+## v2027.3 · 2026-11-12 · unspecified · en
+
+# Dante Config Editor 2027.3
+
+DCE 2027.3 starts with a 30-day free trial from first launch. After the trial, a permanent license is required to use the editor. The one-time price is **€49 including VAT**. Existing valid activated DCE licenses still work.
+
+## Windows x64
+
+- **Offline.** Create a project from scratch or open a Dante XML file. Prepare devices, channel labels and routing, then export the XML.
+- **Online.** In **DCE Patch**, select **Go online** and choose the Dante interface. Patch points between two discovered devices apply to the local network. **Start simulation** lets you explore this workflow with simulated devices.
+- **Mixed mode.** Discovered devices appear alongside devices planned in the project. A prepared route stays grey while a device is missing. When it arrives, DCE flags differences. Open **Replace / Synchronize devices** to review the assignments and choose which differences to apply in each direction. Applying changes to the network may interrupt audio.
+- **Matrix.** Filters, global expand and collapse, channel renaming and series, fixed-axis Flip, and navigation to the exact patch cell from a source or destination list. Green marks connected unicast and blue marks connected multicast. Right-click offers a transport change when the flow supports it. The destination list uses **Close** in English and **Fermer** in French.
+
+## macOS Apple Silicon and Intel · November 15, 2026
+
+- **Offline.** Prepare and export an XML project using the device library, patch matrix and Easy Patch.
+- **Online.** In Patch, open **Go online** and choose the Dante interface. The matrix shows discovered devices and allows direct patching. Tx renaming restores observed Rx subscriptions and reads back the result. Multicast flow creation and deletion are available for compatible devices.
+- **Mixed mode.** Import an XML file during the session. Absent devices and their prepared routes appear in gray. **Replace / Synchronize** lets you choose device assignments, changes to transfer and the direction of each transfer. Sending changes can briefly interrupt audio.
+- **Qualification.** Network workflows were tested in simulation on Apple Silicon. The Intel package was checked for its architecture. Device discovery and routing changes on physical Dante hardware remain to be verified. macOS 15 or later is required.
+
+## Windows update, November 13, 2026
+
+- **Windows patching.** Easy patch lets you change the destination. The matrix offers Ctrl-click routing between groups, an optional replacement warning, and L/R series with or without a space. Right-click an active patch point to see the available transport change. Device details lets you disconnect all RX or TX routes after confirmation.
+
+## macOS update, November 13, 2026
+
+- **Offline XML patching.** Easy Patch lets you choose both TX and RX devices. The existing RX replacement warning is optional.
+- Enable **Actions → Channel groups** and **Command-click** where two equal-sized groups intersect to connect them in order. Repeat to disconnect the complete block.
+- L/R naming series preserve the format, including the optional space. Device details lets you prepare to disconnect all RX or all TX routes after confirmation.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
+
+## v2027.3 · 2026-11-12 · unspecified · fr
+
+# Dante Config Editor 2027.3
+
+DCE 2027.3 démarre avec un essai gratuit de 30 jours à compter du premier lancement. Ensuite, une licence permanente est requise pour utiliser l’éditeur. Elle est vendue **49 € TTC** en paiement unique. Les licences DCE valides déjà activées restent utilisables.
+
+## Windows x64
+
+- **Hors ligne.** Créez un projet depuis zéro ou ouvrez un XML Dante. Préparez les machines, les noms de canaux et le patch, puis exportez le XML.
+- **En ligne.** Dans **Patch DCE**, choisissez **Passer en ligne** et sélectionnez l’interface Dante. Les points de patch entre deux machines détectées s’appliquent sur le réseau local. **Démarrer la simulation** permet de découvrir ce parcours avec des appareils fictifs.
+- **Mode mixte.** Les appareils détectés côtoient les machines prévues dans le projet. Une liaison préparée reste grise tant qu’un appareil manque. À son arrivée, DCE signale les écarts. Ouvrez **Remplacer / Synchroniser des machines** pour vérifier les correspondances et choisir les écarts et leur sens. Une application sur le réseau peut interrompre l’audio.
+- **Grille.** Filtres, dépliage global, renommage et séries, Flip à axes fixes et repérage de la case exacte depuis une liste de destinations ou de sources. Les points connectés distinguent l’unicast vert du multicast bleu. Le clic droit propose un changement de transport lorsque le flux s’y prête. La liste des destinations se ferme avec **Fermer** en français et **Close** en anglais.
+
+## macOS Apple Silicon et Intel · 15 novembre 2026
+
+- **Hors ligne.** Préparez et exportez un projet XML avec la banque de machines, la matrice et Easy Patch.
+- **En ligne.** Dans Patch, ouvrez **Passer en ligne**, puis choisissez l’interface Dante. La grille affiche les appareils détectés et permet le patch direct. Le renommage TX rétablit les abonnements RX détectés et relit le résultat. La création et la suppression de flux multicast sont proposées pour les appareils compatibles.
+- **Mode mixte.** Importez un XML pendant la session. Les machines absentes et leurs liaisons préparées s’affichent en gris. **Remplacer / Synchroniser** permet de choisir les correspondances, les écarts à transférer et le sens de chaque transfert. Un envoi peut interrompre brièvement l’audio.
+- **Qualification.** Les parcours réseau ont été testés en simulation sur Apple Silicon. Le paquet Intel a été vérifié pour son architecture. La découverte et la modification du routage sur du matériel Dante restent à vérifier. macOS 15 ou ultérieur est requis.
+
+## Mise à jour Windows du 13 novembre 2026
+
+- **Patch Windows.** Easy patch permet de changer la destination. La matrice propose Ctrl+clic entre groupes, un avertissement de remplacement facultatif et les séries L/R avec ou sans espace. Le clic droit sur un point actif indique le transport disponible. La fiche machine propose de déconnecter tous les RX ou tous les TX après confirmation.
+
+## Mise à jour macOS du 13 novembre 2026
+
+- **Patch XML hors ligne.** Easy Patch permet de choisir l’émetteur TX et le récepteur RX. L’avertissement avant de remplacer un RX est facultatif.
+- Dans **Actions → Groupes de canaux**, utilisez **⌘+clic** au croisement de deux groupes de même taille pour les connecter dans l’ordre. Répétez le geste pour retirer le bloc complet.
+- Les séries L/R préservent l’écriture des noms, avec ou sans espace. La fiche machine permet de préparer la déconnexion de tous ses RX ou TX après confirmation.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
+
+## v2027.3 · 2026-11-12 · unspecified · original
+
+# Dante Config Editor 2027.3
+
+DCE 2027.3 démarre avec un essai gratuit de 30 jours à compter du premier lancement. Ensuite, une licence permanente est requise pour utiliser l’éditeur. Elle est vendue **49 € TTC** en paiement unique. Les licences DCE valides déjà activées restent utilisables.
+
+## Windows x64
+
+- **Hors ligne.** Créez un projet depuis zéro ou ouvrez un XML Dante. Préparez les machines, les noms de canaux et le patch, puis exportez le XML.
+- **En ligne.** Dans **Patch DCE**, choisissez **Passer en ligne** et sélectionnez l’interface Dante. Les points de patch entre deux machines détectées s’appliquent sur le réseau local. **Démarrer la simulation** permet de découvrir ce parcours avec des appareils fictifs.
+- **Mode mixte.** Les appareils détectés côtoient les machines prévues dans le projet. Une liaison préparée reste grise tant qu’un appareil manque. À son arrivée, DCE signale les écarts. Ouvrez **Remplacer / Synchroniser des machines** pour vérifier les correspondances et choisir les écarts et leur sens. Une application sur le réseau peut interrompre l’audio.
+- **Grille.** Filtres, dépliage global, renommage et séries, Flip à axes fixes et repérage de la case exacte depuis une liste de destinations ou de sources. Les points connectés distinguent l’unicast vert du multicast bleu. Le clic droit propose un changement de transport lorsque le flux s’y prête. La liste des destinations se ferme avec **Fermer** en français et **Close** en anglais.
+
+## macOS Apple Silicon et Intel · 15 novembre 2026
+
+- **Hors ligne.** Préparez et exportez un projet XML avec la banque de machines, la matrice et Easy Patch.
+- **En ligne.** Dans Patch, ouvrez **Passer en ligne**, puis choisissez l’interface Dante. La grille affiche les appareils détectés et permet le patch direct. Le renommage TX rétablit les abonnements RX détectés et relit le résultat. La création et la suppression de flux multicast sont proposées pour les appareils compatibles.
+- **Mode mixte.** Importez un XML pendant la session. Les machines absentes et leurs liaisons préparées s’affichent en gris. **Remplacer / Synchroniser** permet de choisir les correspondances, les écarts à transférer et le sens de chaque transfert. Un envoi peut interrompre brièvement l’audio.
+- **Qualification.** Les parcours réseau ont été testés en simulation sur Apple Silicon. Le paquet Intel a été vérifié pour son architecture. La découverte et la modification du routage sur du matériel Dante restent à vérifier. macOS 15 ou ultérieur est requis.
+
+## Mise à jour Windows du 13 novembre 2026
+
+- **Patch Windows.** Easy patch permet de changer la destination. La matrice propose Ctrl+clic entre groupes, un avertissement de remplacement facultatif et les séries L/R avec ou sans espace. Le clic droit sur un point actif indique le transport disponible. La fiche machine propose de déconnecter tous les RX ou tous les TX après confirmation.
+
+## Mise à jour macOS du 13 novembre 2026
+
+- **Patch XML hors ligne.** Easy Patch permet de choisir l’émetteur TX et le récepteur RX. L’avertissement avant de remplacer un RX est facultatif.
+- Dans **Actions → Groupes de canaux**, utilisez **⌘+clic** au croisement de deux groupes de même taille pour les connecter dans l’ordre. Répétez le geste pour retirer le bloc complet.
+- Les séries L/R préservent l’écriture des noms, avec ou sans espace. La fiche machine permet de préparer la déconnexion de tous ses RX ou TX après confirmation.
+
+---
+
+# Dante Config Editor 2027.3
+
+DCE 2027.3 starts with a 30-day free trial from first launch. After the trial, a permanent license is required to use the editor. The one-time price is **€49 including VAT**. Existing valid activated DCE licenses still work.
+
+## Windows x64
+
+- **Offline.** Create a project from scratch or open a Dante XML file. Prepare devices, channel labels and routing, then export the XML.
+- **Online.** In **DCE Patch**, select **Go online** and choose the Dante interface. Patch points between two discovered devices apply to the local network. **Start simulation** lets you explore this workflow with simulated devices.
+- **Mixed mode.** Discovered devices appear alongside devices planned in the project. A prepared route stays grey while a device is missing. When it arrives, DCE flags differences. Open **Replace / Synchronize devices** to review the assignments and choose which differences to apply in each direction. Applying changes to the network may interrupt audio.
+- **Matrix.** Filters, global expand and collapse, channel renaming and series, fixed-axis Flip, and navigation to the exact patch cell from a source or destination list. Green marks connected unicast and blue marks connected multicast. Right-click offers a transport change when the flow supports it. The destination list uses **Close** in English and **Fermer** in French.
+
+## macOS Apple Silicon and Intel · November 15, 2026
+
+- **Offline.** Prepare and export an XML project using the device library, patch matrix and Easy Patch.
+- **Online.** In Patch, open **Go online** and choose the Dante interface. The matrix shows discovered devices and allows direct patching. Tx renaming restores observed Rx subscriptions and reads back the result. Multicast flow creation and deletion are available for compatible devices.
+- **Mixed mode.** Import an XML file during the session. Absent devices and their prepared routes appear in gray. **Replace / Synchronize** lets you choose device assignments, changes to transfer and the direction of each transfer. Sending changes can briefly interrupt audio.
+- **Qualification.** Network workflows were tested in simulation on Apple Silicon. The Intel package was checked for its architecture. Device discovery and routing changes on physical Dante hardware remain to be verified. macOS 15 or later is required.
+
+## Windows update, November 13, 2026
+
+- **Windows patching.** Easy patch lets you change the destination. The matrix offers Ctrl-click routing between groups, an optional replacement warning, and L/R series with or without a space. Right-click an active patch point to see the available transport change. Device details lets you disconnect all RX or TX routes after confirmation.
+
+## macOS update, November 13, 2026
+
+- **Offline XML patching.** Easy Patch lets you choose both TX and RX devices. The existing RX replacement warning is optional.
+- Enable **Actions → Channel groups** and **Command-click** where two equal-sized groups intersect to connect them in order. Repeat to disconnect the complete block.
+- L/R naming series preserve the format, including the optional space. Device details lets you prepare to disconnect all RX or all TX routes after confirmation.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3
+
 ## v2027.3 · 2026-11-12 · unspecified · original
 
 # Dante Config Editor 2027.3
