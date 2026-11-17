@@ -1,5 +1,35 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.18 · 2026-11-17 · unspecified · original
+
+# StageFlow 2027.1.18
+
+## Français
+
+- **Excel direct sous Windows.** Le panneau Tableur propose la synchronisation directe avec Microsoft Excel installé sur le PC, sans plugin supplémentaire. Les cellules validées sont échangées dans les deux sens sans fermer Excel ni reconstruire les feuilles à chaque saisie. Ce mode ne concerne pas Excel dans le navigateur. Décochez **Synchronisation directe** pour conserver la mise à jour manuelle à votre demande.
+- **Conflits à revoir avant de poursuivre.** Un désaccord entre Excel et StageFlow, ou entre les feuilles d'édition du classeur, suspend le mode direct. Utilisez **Comparer et résoudre…** pour choisir les valeurs à conserver. Les changements de structure ou certaines mises en page demandent une mise à jour manuelle du classeur. Le direct reprend après validation. Enregistrez le projet et le fichier Excel pour conserver le travail sur disque.
+- **Un seul bouton pour créer le classeur.** **Créer le classeur imprimable** remplace le doublon **Exporter Excel**. Le même classeur conserve ses cellules modifiables et ses pages destinées à l'impression.
+- **Pause de toutes les alertes.** La synchronisation LIVE continue pendant la suspension. À la reprise, choisissez une seule alerte récapitulative des changements conservés, ou reprenez sans alerte de rattrapage. Le récapitulatif garde jusqu'à 200 changements et signale les éventuels détails supplémentaires omis.
+- **Repérer les changements.** Dans StageFlow, le groupe, son onglet Patch et la cellule Source concernés clignotent jusqu'à l'acquittement local, y compris pour les groupes qui héritent d'un label commun. Le poste ou téléphone qui effectue la saisie ne reçoit pas sa propre alerte. Les autres destinataires gardent leur acquittement indépendant.
+- **Préférences préservées.** Les préférences d'émission personnelle et de réception restent distinctes de la pause globale. Appliquer les préférences ne réactive pas les alertes suspendues. Les notes et le monitoring restent sans alerte.
+- **Notices FR et EN mises à jour.** Le nouveau lot documentaire 2027.7 explique ces parcours. Sur macOS, les échanges Excel restent explicites par export puis import ou actualisation. La synchronisation directe décrite ci-dessus est réservée à Windows.
+
+L'essai de 30 jours et les licences de la version précédente sont conservés. La licence permanente StageFlow coûte 79 € TTC. Le pack à 199 € TTC comprend StageFlow, StageDesk, StageMark et StageMon, au lieu de 276 € séparément, soit 77 € d’économie. Les autres tarifs TTC sont StageDesk 99 €, Dante Config Editor 79 €, StageMark 49 €, StageMon 49 € et Larsen Lupin 49 €.
+
+## English
+
+- **Direct Excel connection on Windows.** The Spreadsheet panel offers direct synchronization with Microsoft Excel installed on the PC, without an additional plugin. Committed cell edits update in both directions without closing Excel or rebuilding sheets after each edit. This mode does not apply to browser Excel. Clear **Direct synchronization** to keep manual updates on request.
+- **Review conflicts before continuing.** Conflicting edits between Excel and StageFlow, or between workbook editing sheets, pause direct mode. Use **Compare and resolve…** to choose which values to keep. Structural changes and some layout changes require a manual workbook update. Direct mode resumes after validation. Save both the project and Excel file to keep your work on disk.
+- **One action to create the workbook.** **Create printable workbook** replaces the duplicate **Export Excel** action. The same workbook retains its editable cells and print-ready sheets.
+- **Pause all alerts.** LIVE synchronization continues while alerts are paused. When resuming, choose one summary alert of retained changes or resume without catch-up alerts. The summary retains up to 200 changes and reports any additional omitted details.
+- **Find changed values.** In StageFlow, the affected group, Patch tab and Source cell pulse until locally acknowledged, including groups inheriting a common label. The computer or phone making an edit does not receive its own alert. Other recipients retain their independent acknowledgements.
+- **Preserve preferences.** Personal emission and reception preferences remain separate from the global pause. Applying settings does not resume globally paused alerts. Notes and monitoring remain free of alerts.
+- **Updated French and English manuals.** Documentation bundle 2027.7 explains these workflows. On macOS, Excel exchange remains explicit through export followed by import or refresh. The direct synchronization described above is available on Windows only.
+
+The existing 30-day trial and licenses are preserved. The permanent StageFlow license costs €79 including VAT. The €199 bundle includes StageFlow, StageDesk, StageMark and StageMon, instead of €276 separately, saving €77. Other prices including VAT are StageDesk €99, Dante Config Editor €79, StageMark €49, StageMon €49 and Larsen Lupin €49.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.18
+
 ## v2027.1.17 · 2026-11-17 · unspecified · original
 
 # StageFlow 2027.1.17
