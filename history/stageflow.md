@@ -1,5 +1,25 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.17 · 2026-11-17 · unspecified · original
+
+# StageFlow 2027.1.17
+
+## Français
+
+- StageFlow propose un essai complet de 30 jours. Le délai débute au premier démarrage de cette version. Une session déjà ouverte peut se poursuivre jusqu’à la fermeture du logiciel.
+- La licence permanente StageFlow coûte 49 € TTC et couvre Windows et macOS. Le pack à 149 € TTC comprend les licences StageFlow, StageDesk, StageMark et StageMon.
+- Pour activer StageFlow, collez le code reçu dans **Aide → Licence** en étant connecté à Internet. L’application fonctionne ensuite hors ligne.
+- Vous pouvez acheter en invité et retrouver ensuite vos licences dans un compte SiLeMIO dont l’adresse e-mail vérifiée correspond à celle de la commande.
+
+## English
+
+- StageFlow includes a full 30-day trial, starting when you first open this release. An open session can continue until you close the app.
+- The permanent StageFlow license costs €49 including VAT and supports Windows and macOS. The €149 bundle includes StageFlow, StageDesk, StageMark and StageMon licenses.
+- To activate StageFlow, paste the code you receive into **Help → License** while connected to the internet. The app then works offline.
+- You can buy as a guest and later retrieve your licenses in a SiLeMIO account with the same verified email address used for the order.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.17
+
 ## v2027.1.16 · 2026-11-15 · unspecified · original
 
 # StageFlow 2027.1.16
