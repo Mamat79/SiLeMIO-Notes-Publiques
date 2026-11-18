@@ -1,5 +1,23 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.19 · 2026-11-18 · unspecified · original
+
+# StageFlow 2027.1.19
+
+## Français
+
+- **Disposition modulable sur Windows.** Dans **Affichage → Disposition des panneaux**, placez les groupes, le patch et le panneau **Projet · Tableur** à gauche ou à droite. Vous pouvez les détacher et les rattacher, redimensionner les colonnes latérales et replier séparément **Projet** et **Tableur**. StageFlow mémorise la disposition. Le même menu permet de retrouver celle d’origine.
+- **Panneau Projet · Tableur sur Mac.** Vous pouvez le redimensionner, l’ancrer à gauche ou à droite, le détacher et le rattacher. La disposition est mémorisée et peut être réinitialisée depuis **Affichage**.
+- **Dépannage de la télécommande.** Sous le QR code, retrouvez les étapes pour vérifier le réseau local et les autorisations du navigateur sur Android, iPhone et iPad. L’édition documentaire 2027.8 les détaille dans les notices FR et EN.
+
+## English
+
+- **Flexible panel layout on Windows.** Use **View → Panel layout** to position Groups, Patch and **Project · Spreadsheet** on the left or right. You can undock and reattach panels, resize the side columns, and collapse **Project** and **Spreadsheet** separately. StageFlow remembers your layout. Use the same menu to restore the original layout.
+- **Project · Spreadsheet on Mac.** Resize the panel, dock it on either side, or undock and reattach it. StageFlow remembers your layout. The **View** menu lets you reset it.
+- **Remote control troubleshooting.** The help below the QR code walks you through checking the local network and browser permissions on Android, iPhone and iPad. Documentation edition 2027.8 covers the steps in the French and English user guides.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.19
+
 ## v2027.1.18 · 2026-11-17 · unspecified · original
 
 # StageFlow 2027.1.18
