@@ -1,5 +1,60 @@
 [
   {
+    "releaseId": "449747309",
+    "tag": "v2027.1.8",
+    "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.8",
+    "publishedAt": "2026-11-18T09:20:45Z",
+    "observedAt": "2026-11-18T13:57:22.568Z",
+    "locale": "en",
+    "platform": "macos",
+    "text": "# StageMon 2027.1.8 — macOS\n\nStageMon's full trial lasts 30 days. After that, a license is required the\nnext time the app starts; an open session may continue until it closes.\nExisting projects and valid licenses are preserved. A permanent license costs\n€49 including VAT. Initial activation requires Internet, after which the\nlicense can be checked offline.\n\nThe two bundled SiLeMIO suite guides are updated to StageFlow edition 2027.7.\nThey describe StageFlow's full 30-day trial, permanent licenses at €79 for\nStageFlow, €99 for StageDesk, €79 for Dante Config Editor and €49 each for\nStageMark, StageMon and Larsen Lupin, plus the €199 VAT-inclusive StageFlow,\nStageDesk, StageMark and StageMon bundle.\n\nThe monitoring matrix, audio engine, projects and profiles retain their\nbehavior. Native Apple Silicon qualification and Intel package checks are\nrecorded separately in this build's delivery receipts.",
+    "contentSha256": "1632fa787fa46c10e5f25f8b7f24d72b11075f4b8950e129a42c4381411cf869"
+  },
+  {
+    "releaseId": "449747309",
+    "tag": "v2027.1.8",
+    "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.8",
+    "publishedAt": "2026-11-18T09:20:45Z",
+    "observedAt": "2026-11-18T13:57:22.568Z",
+    "locale": "en",
+    "platform": "unspecified",
+    "text": "# StageMon 2027.1.8 — Windows\n\nStageMon's full trial lasts 30 days. After that, a license is required the\nnext time the app starts; an open session may continue until it closes.\nExisting projects and valid licenses are preserved. A permanent license costs\n€49 including VAT. Initial activation requires Internet, after which the\nlicense can be checked offline.\n\nThe SiLeMIO suite guides are updated to StageFlow edition 2027.7. They describe\nStageFlow's full 30-day trial, permanent licenses at €79 for StageFlow, €99\nfor StageDesk, €79 for Dante Config Editor and €49 each for StageMark, StageMon\nand Larsen Lupin, plus the €199 VAT-inclusive StageFlow, StageDesk, StageMark\nand StageMon bundle.\n\nThe monitoring matrix, audio engine, project files and profiles retain their\nbehavior. The 2027.1.7 notes describe the interface.",
+    "contentSha256": "1f3d6cbf953ba0cb35c96afdc96ef95a74994f193cb52d5236515d56ab002059"
+  },
+  {
+    "releaseId": "449747309",
+    "tag": "v2027.1.8",
+    "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.8",
+    "publishedAt": "2026-11-18T09:20:45Z",
+    "observedAt": "2026-11-18T13:57:22.568Z",
+    "locale": "fr",
+    "platform": "macos",
+    "text": "# StageMon 2027.1.8 — macOS\n\nL'essai complet de StageMon dure 30 jours. Passé ce délai, une licence est\ndemandée au prochain démarrage ; une session déjà ouverte peut se poursuivre\njusqu'à sa fermeture. Les projets et licences valides sont conservés. La\nlicence permanente coûte 49 € TTC. L'activation initiale nécessite Internet,\npuis la licence peut être vérifiée hors ligne.\n\nLes deux guides communs SiLeMI/O embarqués passent à l'édition StageFlow\n2027.7. Ils décrivent l'essai complet StageFlow de 30 jours, les licences\npermanentes StageFlow 79 €, StageDesk 99 €, Dante Config Editor 79 €,\nStageMark 49 €, StageMon 49 € et Larsen Lupin 49 €, ainsi que le pack\nStageFlow, StageDesk, StageMark et StageMon à 199 € TTC.\n\nLa matrice, le moteur audio, les projets et les profils de StageMon conservent\nleur fonctionnement. La qualification native Apple Silicon et le contrôle du\npaquet Intel sont attestés séparément par les reçus de livraison de ce build.",
+    "contentSha256": "905657d723ac3b551da0740d02f51e8a0397f300b6939416d481fc7af06fbab0"
+  },
+  {
+    "releaseId": "449747309",
+    "tag": "v2027.1.8",
+    "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.8",
+    "publishedAt": "2026-11-18T09:20:45Z",
+    "observedAt": "2026-11-18T13:57:22.568Z",
+    "locale": "fr",
+    "platform": "unspecified",
+    "text": "# StageMon 2027.1.8 — Windows\n\nL'essai complet de StageMon dure 30 jours. Passé ce délai, une licence est\ndemandée au prochain démarrage ; une session déjà ouverte peut se poursuivre\njusqu'à sa fermeture. Les projets et licences valides sont conservés. La\nlicence permanente coûte 49 € TTC. L'activation initiale nécessite Internet,\npuis la licence peut être vérifiée hors ligne.\n\nLes guides communs SiLeMI/O passent à l'édition StageFlow 2027.7. Ils décrivent\nl'essai complet StageFlow de 30 jours, les licences permanentes StageFlow 79 €,\nStageDesk 99 €, Dante Config Editor 79 €, StageMark 49 €, StageMon 49 € et\nLarsen Lupin 49 €, ainsi que le pack StageFlow, StageDesk, StageMark et StageMon\nà 199 € TTC.\n\nLa matrice, le moteur audio, les fichiers de projet et les profils de StageMon\nconservent leur fonctionnement. Les notes 2027.1.7 décrivent l'interface.",
+    "contentSha256": "91c8d109eefc703d86734df1d11ce45d7631594606635370acaeebb7d759c926"
+  },
+  {
+    "releaseId": "449747309",
+    "tag": "v2027.1.8",
+    "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.8",
+    "publishedAt": "2026-11-18T09:20:45Z",
+    "observedAt": "2026-11-18T13:57:22.568Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMon 2027.1.8 — Windows et macOS\n\n**FR** L’essai complet dure 30 jours. Une licence permanente est requise au démarrage suivant l’expiration de l’essai. Elle coûte 49 € TTC. Cette version embarque les guides SiLeMI/O édition 2027.7. Choisissez le Setup Windows x64 ou le DMG macOS correspondant à votre Mac, Apple Silicon ou Intel. Les notices, sommes SHA-256 et rapports de qualification sont joints.\n\n**EN** The full trial lasts 30 days. A perpetual license is required at the first launch after the trial ends and costs €49 including VAT. This version includes the SiLeMI/O 2027.7 guides. Choose the Windows x64 Setup or the macOS disk image for Apple Silicon or Intel. Guides, SHA-256 checksums and qualification reports are attached.\n\nWindows x64 sans signature / unsigned. macOS 14+ déclaré / declared. Apple Silicon testé au lancement depuis le DMG / mounted DMG launch checked. Intel contrôlé statiquement / static checks only. Pas de notarisation macOS / no macOS notarization.",
+    "contentSha256": "f667f457096a76bce29a3d833b378188dce346a1b08d0d296e5ebb1bf6198180"
+  },
+  {
     "releaseId": "424674967",
     "tag": "v2027.1.7",
     "source": "https://github.com/Mamat79/StageMon/releases/tag/v2027.1.7",
