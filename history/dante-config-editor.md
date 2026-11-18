@@ -1,5 +1,67 @@
 # Dante Config Editor — Notes de version / Release notes
 
+## v2027.3.1 · 2026-11-18 · unspecified · en
+
+# Dante Config Editor 2027.3.1
+
+The permanent license costs **EUR 79 including VAT**, paid once. DCE includes a 30-day free trial. French and English purchase buttons and tooltips show the current price and open the central SiLeMI/O store.
+
+[Open the store](https://www.silemio.com/acheter)
+
+This update retains the offline, network and mixed workflows from 2027.3. Existing activated licenses remain recognized. Updating preserves trial state, activations, projects and the personal device library.
+
+Complete guides and quick starts are included in French and English for Windows and macOS. Refer to the platform-specific qualification files for the checks performed and their limits.
+
+Private product source pinned for this delivery: 964f2610ca0a1c3b6bd8e0560869c4bb23f9941a.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.1
+
+## v2027.3.1 · 2026-11-18 · unspecified · fr
+
+# Dante Config Editor 2027.3.1
+
+La licence permanente est proposée à **79 € TTC**, en paiement unique. DCE comprend un essai gratuit de 30 jours. Les boutons et infobulles d’achat français et anglais affichent le tarif actuel et ouvrent la boutique centrale SiLeMI/O.
+
+[Ouvrir la boutique](https://www.silemio.com/acheter)
+
+Cette correction conserve les modes hors ligne, réseau et mixte de la 2027.3. Les licences déjà activées restent reconnues. La mise à jour conserve l’état de l’essai, les activations, les projets et la banque personnelle.
+
+Les notices complètes et démarrages rapides sont fournis en français et en anglais pour Windows et macOS. Consultez les fichiers de qualification propres à chaque plateforme pour les essais effectués et leurs limites.
+
+Source produit privée figée pour la livraison : 964f2610ca0a1c3b6bd8e0560869c4bb23f9941a.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.1
+
+## v2027.3.1 · 2026-11-18 · unspecified · original
+
+# Dante Config Editor 2027.3.1
+
+La licence permanente est proposée à **79 € TTC**, en paiement unique. DCE comprend un essai gratuit de 30 jours. Les boutons et infobulles d’achat français et anglais affichent le tarif actuel et ouvrent la boutique centrale SiLeMI/O.
+
+[Ouvrir la boutique](https://www.silemio.com/acheter)
+
+Cette correction conserve les modes hors ligne, réseau et mixte de la 2027.3. Les licences déjà activées restent reconnues. La mise à jour conserve l’état de l’essai, les activations, les projets et la banque personnelle.
+
+Les notices complètes et démarrages rapides sont fournis en français et en anglais pour Windows et macOS. Consultez les fichiers de qualification propres à chaque plateforme pour les essais effectués et leurs limites.
+
+Source produit privée figée pour la livraison : 964f2610ca0a1c3b6bd8e0560869c4bb23f9941a.
+
+---
+
+# Dante Config Editor 2027.3.1
+
+The permanent license costs **EUR 79 including VAT**, paid once. DCE includes a 30-day free trial. French and English purchase buttons and tooltips show the current price and open the central SiLeMI/O store.
+
+[Open the store](https://www.silemio.com/acheter)
+
+This update retains the offline, network and mixed workflows from 2027.3. Existing activated licenses remain recognized. Updating preserves trial state, activations, projects and the personal device library.
+
+Complete guides and quick starts are included in French and English for Windows and macOS. Refer to the platform-specific qualification files for the checks performed and their limits.
+
+Private product source pinned for this delivery: 964f2610ca0a1c3b6bd8e0560869c4bb23f9941a.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.1
+
 ## v2027.3 · 2026-11-12 · unspecified · en
 
 # Dante Config Editor 2027.3

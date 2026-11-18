@@ -1,5 +1,72 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.10 · 2026-11-18 · unspecified · original
+
+# StageMark 2027.1.10
+
+Cette révision conserve les fonctions de StageMark 2027.1.8, intègre le parcours
+commercial préparé en 2027.1.9 et corrige les informations commerciales de la suite.
+
+Les liens StageFlow du panneau Patch, les illustrations et les notices
+Windows/macOS FR/EN indiquent désormais un essai complet de 30 jours et une
+licence permanente à 79 € TTC. Le connecteur AutoCAD reste gratuit et facultatif.
+
+Le guide commun SiLeMIO, édition 2027.7, est intégré à l’identique de la livraison
+StageFlow 2027.1.18. Il présente les tarifs TTC et le pack StageFlow, StageDesk,
+StageMark et StageMon à 199 €. La licence StageMark reste à 49 € TTC.
+
+Les outils de lecture des plans importés sont conservés. StageMark propose un
+essai complet de 30 jours puis exige une licence permanente au prochain
+démarrage. Une session déjà autorisée reste ouverte jusqu’à sa fermeture.
+Les licences et activations existantes restent conservées. Les commandes AR
+d’export et d’impression suivent le même contrôle natif que les autres commandes. Les fichiers du compagnon AR déjà qualifiés sont
+conservés avec leur version et leurs empreintes historiques.
+
+---
+
+# StageMark 2027.1.10
+
+This revision retains StageMark 2027.1.8 features, integrates the commercial
+workflow prepared in 2027.1.9 and corrects the suite’s commercial information.
+
+StageFlow links in the Patch panel, illustrations and Windows/macOS manuals
+in French and English now show a full 30-day trial and a permanent license
+priced at €79 including tax. The AutoCAD connector remains free and optional.
+
+The shared SiLeMIO guide, edition 2027.7, is included byte for byte from the
+StageFlow 2027.1.18 delivery. It presents tax-inclusive prices and the €199
+StageFlow, StageDesk, StageMark and StageMon bundle. The StageMark license
+remains €49 including tax.
+
+Imported-plan tools are retained. StageMark offers a full 30-day trial, then
+requires a permanent license at the next launch. An authorized session remains
+open until closed. Existing licenses and activations are retained. AR export
+and print commands use the same native authorization as other commands. Previously qualified
+AR companion files retain their historical versions and checksums.
+
+## Téléchargements / Downloads
+
+- Windows x64 : `StageMark-2027.1.10-Setup.exe`.
+- macOS Apple Silicon : `StageMark-2027.1.10-macOS-arm64.dmg`.
+- macOS Intel : `StageMark-2027.1.10-macOS-x64.dmg`.
+- Vérifiez le fichier SHA-256 associé / Verify the matching SHA-256 file.
+- Notices Windows et macOS distinctes, FR/EN / Separate Windows and macOS manuals, FR/EN.
+- Le compagnon Android reste 0.1.1 build 18 ; ses six fichiers historiques sont conservés à l’identique / Android companion remains 0.1.1 build 18; its six historical files are preserved byte for byte.
+
+## Qualification et limites / Qualification and limits
+
+Windows 11 x64 : installé et vérifié, profils et licences sauvegardés et conservés ; contrôles natifs sur profils isolés.
+macOS : Apple Silicon natif et Intel sous Rosetta qualifiés. Mac Intel physique non testé. Paquets sans signature Apple Developer ID ni notarisation.
+Mac : 1 388 tests Vitest et 111 tests Node réussis ; 28 cas Vitest ignorés. Les 208 tests ciblés Dell recouvrent ces tests et ne sont pas additionnés.
+Projection physique, téléphone, réseau à deux postes et activation commerciale réelle non qualifiés par cette livraison.
+
+Windows 11 x64 installed and verified; profiles and licenses backed up and preserved, native checks on isolated profiles.
+macOS: native Apple Silicon and Intel under Rosetta qualified. No physical Intel Mac test. No Apple Developer ID signature or notarization.
+Mac: 1,388 Vitest and 111 Node tests passed; 28 Vitest cases skipped. The 208 targeted Dell tests overlap and are not added.
+No physical projector, phone, two-computer LAN or real commercial activation qualification claimed.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.10
+
 ## v2027.1.8 · 2026-11-14 · unspecified · original
 
 # StageMark 2027.1.8
