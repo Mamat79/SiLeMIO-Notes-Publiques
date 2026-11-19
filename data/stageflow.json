@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451449751",
+    "tag": "v2027.1.21",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.21",
+    "publishedAt": "2026-11-19T14:21:03Z",
+    "observedAt": "2026-11-19T14:23:45.824Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "Windows 2027.1.21 est disponible. Les versions macOS Apple Silicon et Intel restent en 2027.1.20 pendant la qualification de la 2027.1.21.\n\n# StageFlow 2027.1.21\n\n## Français\n\n- **Rejoindre une session StageFlow LIVE.** Depuis un autre poste, cliquez sur **Rejoindre une session LIVE…** dans StageFlow, sélectionnez le projet diffusé sur le réseau local et saisissez le code à six chiffres affiché chez l’hôte. Si le projet n’apparaît pas, saisissez l’adresse complète affichée chez l’hôte.\n- **Suivre le patch en direct.** Choisissez le groupe à consulter. Le patch distant se met à jour dans une fenêtre en lecture seule, et le projet local reste ouvert. Fermez cette fenêtre ou cliquez sur **Quitter la session** pour vous déconnecter.\n\n## English\n\n- **Join a StageFlow LIVE session.** On another computer, select **Join a LIVE session…** in StageFlow, choose the project broadcast on the local network, and enter the host’s six-digit code. If the project is not listed, enter the full address shown on the host.\n- **Follow the live patch.** Select the group to view. The remote patch updates in a read-only window, and your local project stays open. Close the window or click **Leave session** to disconnect.",
+    "contentSha256": "56a9507382a43d63dc5191b656b8529732ed2d1246b965c299ed5141e508d53a"
+  },
+  {
     "releaseId": "451400669",
     "tag": "v2027.1.20",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.20",
