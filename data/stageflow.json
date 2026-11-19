@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451755204",
+    "tag": "v2027.1.24",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.24",
+    "publishedAt": "2026-11-19T18:33:02Z",
+    "observedAt": "2026-11-19T18:37:37.498Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageFlow 2027.1.24 pour Windows\n\n## Français\n\n- **StageMark ouvre la session en cours.** Depuis StageFlow qui diffuse une session ou depuis un poste qui l’a rejointe, choisissez **Ouvrir StageMark** pour ouvrir le même projet LIVE dans StageMark 2027.1.13 pour Windows. StageMark protège le projet déjà ouvert avant la bascule.\n- **Découverte sur le même PC.** La session StageFlow peut être détectée par StageMark sur le même ordinateur, depuis l’interface Wi-Fi ou Ethernet qui diffuse la session.\n- **Reprise de la synchronisation.** Le patch et les plans de groupe se synchronisent dans les deux sens par défaut. Mettre la synchronisation en pause permet de garder les modifications sur le poste. À la reprise, choisissez de recevoir l’état de la session ou d’envoyer vos modifications locales. Les changements concurrents sont signalés.\n\nLes téléchargements Mac Apple Silicon et Intel restent en 2027.1.21.\n\n## English\n\n- **StageMark opens the current session.** On either the StageFlow host or a joined workstation, choose **Open StageMark** to open the same LIVE project in StageMark 2027.1.13 for Windows. StageMark protects the currently open project before switching.\n- **Discovery on the same computer.** StageMark can discover a StageFlow session on the same computer using the Wi-Fi or Ethernet interface broadcasting that session.\n- **Resuming synchronization.** Patch and group plan edits are synchronized both ways by default. Pause synchronization to keep changes on the workstation. When resuming, choose to receive the session state or send your local changes. Concurrent edits are flagged.\n\nApple Silicon and Intel Mac downloads remain on 2027.1.21.",
+    "contentSha256": "ba00c480c1fe1b1f7e4d24e0af45b9a0a16a6b83a483595e686a31ff2bd43f5f"
+  },
+  {
     "releaseId": "451568643",
     "tag": "v2027.1.23",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.23",

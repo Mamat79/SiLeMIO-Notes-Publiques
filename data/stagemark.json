@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451750256",
+    "tag": "v2027.1.13",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.13",
+    "publishedAt": "2026-11-19T18:31:44Z",
+    "observedAt": "2026-11-19T18:37:37.498Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.13 · Windows\n\n- Choisissez le réseau Wi-Fi ou Ethernet sous **Connexion StageFlow**, puis le projet détecté et son code. Avec **StageFlow Windows 2027.1.24**, la découverte fonctionne aussi sur le poste hôte.\n- Ouvrir StageMark depuis une session StageFlow LIVE hébergée ou rejointe ouvre le projet réseau correspondant. StageMark propose d’enregistrer un autre projet modifié avant de le remplacer.\n- À la première ouverture d’un projet LIVE sans dessin StageMark enregistré, l’éditeur crée un plan par groupe. Les plans déjà enregistrés sont préservés.\n- Les plans StageMark et Rider LIVE se synchronisent dans les deux sens par défaut. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications. Les révisions concurrentes sont signalées.\n\n- Select Wi-Fi or Ethernet under **StageFlow Connection**, then select the discovered project and enter its code. **StageFlow 2027.1.24 for Windows** also makes the session discoverable on the host computer.\n- Opening StageMark from a hosted or joined StageFlow LIVE session opens the network project. StageMark offers to save a different edited project before switching.\n- A LIVE project with no saved StageMark drawing opens with one plan per group. Existing saved plans are preserved.\n- StageMark and Rider LIVE plans sync in both directions by default. After pausing, choose to receive the session version or send your edits. Concurrent revisions are reported.",
+    "contentSha256": "68fd841414023f9586157890a0288ade83824529e913f1919127287d03ab00b1"
+  },
+  {
     "releaseId": "451545427",
     "tag": "v2027.1.12",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.12",

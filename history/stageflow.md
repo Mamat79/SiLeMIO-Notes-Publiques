@@ -1,5 +1,27 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.24 · 2026-11-19 · unspecified · original
+
+# StageFlow 2027.1.24 pour Windows
+
+## Français
+
+- **StageMark ouvre la session en cours.** Depuis StageFlow qui diffuse une session ou depuis un poste qui l’a rejointe, choisissez **Ouvrir StageMark** pour ouvrir le même projet LIVE dans StageMark 2027.1.13 pour Windows. StageMark protège le projet déjà ouvert avant la bascule.
+- **Découverte sur le même PC.** La session StageFlow peut être détectée par StageMark sur le même ordinateur, depuis l’interface Wi-Fi ou Ethernet qui diffuse la session.
+- **Reprise de la synchronisation.** Le patch et les plans de groupe se synchronisent dans les deux sens par défaut. Mettre la synchronisation en pause permet de garder les modifications sur le poste. À la reprise, choisissez de recevoir l’état de la session ou d’envoyer vos modifications locales. Les changements concurrents sont signalés.
+
+Les téléchargements Mac Apple Silicon et Intel restent en 2027.1.21.
+
+## English
+
+- **StageMark opens the current session.** On either the StageFlow host or a joined workstation, choose **Open StageMark** to open the same LIVE project in StageMark 2027.1.13 for Windows. StageMark protects the currently open project before switching.
+- **Discovery on the same computer.** StageMark can discover a StageFlow session on the same computer using the Wi-Fi or Ethernet interface broadcasting that session.
+- **Resuming synchronization.** Patch and group plan edits are synchronized both ways by default. Pause synchronization to keep changes on the workstation. When resuming, choose to receive the session state or send your local changes. Concurrent edits are flagged.
+
+Apple Silicon and Intel Mac downloads remain on 2027.1.21.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.24
+
 ## v2027.1.23 · 2026-11-19 · unspecified · original
 
 # StageFlow 2027.1.23 pour Windows

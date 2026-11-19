@@ -1,5 +1,21 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.13 · 2026-11-19 · unspecified · original
+
+# StageMark 2027.1.13 · Windows
+
+- Choisissez le réseau Wi-Fi ou Ethernet sous **Connexion StageFlow**, puis le projet détecté et son code. Avec **StageFlow Windows 2027.1.24**, la découverte fonctionne aussi sur le poste hôte.
+- Ouvrir StageMark depuis une session StageFlow LIVE hébergée ou rejointe ouvre le projet réseau correspondant. StageMark propose d’enregistrer un autre projet modifié avant de le remplacer.
+- À la première ouverture d’un projet LIVE sans dessin StageMark enregistré, l’éditeur crée un plan par groupe. Les plans déjà enregistrés sont préservés.
+- Les plans StageMark et Rider LIVE se synchronisent dans les deux sens par défaut. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications. Les révisions concurrentes sont signalées.
+
+- Select Wi-Fi or Ethernet under **StageFlow Connection**, then select the discovered project and enter its code. **StageFlow 2027.1.24 for Windows** also makes the session discoverable on the host computer.
+- Opening StageMark from a hosted or joined StageFlow LIVE session opens the network project. StageMark offers to save a different edited project before switching.
+- A LIVE project with no saved StageMark drawing opens with one plan per group. Existing saved plans are preserved.
+- StageMark and Rider LIVE plans sync in both directions by default. After pausing, choose to receive the session version or send your edits. Concurrent revisions are reported.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.13
+
 ## v2027.1.12 · 2026-11-19 · unspecified · original
 
 # StageMark 2027.1.12 · Windows
