@@ -1,5 +1,27 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.23 · 2026-11-19 · unspecified · original
+
+# StageFlow 2027.1.23 pour Windows
+
+## Français
+
+- **Patch LIVE dans les deux sens.** Une saisie validée avec Entrée ou Tab sur le poste connecté rejoint le poste source. En session LIVE, Entrée et Tab valident et sélectionnent la cellule suivante. L’édition partagée est activée par défaut. Décochez **Envoyer mes modifications** pour continuer à recevoir le patch en lecture seule sur ce poste. Recochez pour reprendre l’écriture dans la même session.
+- **Alertes par poste.** Une saisie depuis le poste connecté alerte les autres postes. Chacun peut acquitter ses alertes ou couper leur réception. Si l’hôte termine une saisie ou un enregistrement, StageFlow conserve la modification à envoyer. Une modification concurrente de la même cellule est signalée.
+- **Plans de scène de groupe dans StageFlow et StageMark.** Ouvrez le plan importé du groupe sélectionné depuis le bandeau LIVE. Tracez point par point, déplacez les sommets ou les repères et placez les micros de votre choix. Les deux applications actualisent le même plan de groupe. Le partage de ces plans nécessite StageFlow 2027.1.23 pour Windows sur l’hôte et StageMark 2027.1.12 pour Windows pour l’édition dans StageMark.
+
+Les téléchargements Mac Apple Silicon et Intel restent en 2027.1.21.
+
+## English
+
+- **Two-way LIVE patch editing.** Press Enter or Tab on the joined computer to send the confirmed edit to the host. In a LIVE session, Enter and Tab confirm the edit and select the next cell. Shared editing is on by default. Clear **Send my changes** to continue receiving patch updates in read-only mode. Select it again to resume editing in the same session.
+- **Alerts by workstation.** Edits from the joined computer alert other workstations. Each workstation can acknowledge or mute its own alerts. If the host is finishing an edit or a save, StageFlow keeps the edit pending. Concurrent edits to the same cell are flagged.
+- **Group stage plans in StageFlow and StageMark.** Open the selected group’s imported plan from the LIVE banner. Draw point by point, move vertices or markers, and place the microphones you choose. Both applications update the same group plan. Shared plan editing requires StageFlow 2027.1.23 for Windows on the host and StageMark 2027.1.12 for Windows in StageMark.
+
+Apple Silicon and Intel Mac downloads remain on 2027.1.21.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.23
+
 ## v2027.1.22 · 2026-11-19 · unspecified · original
 
 # StageFlow 2027.1.22 — Windows

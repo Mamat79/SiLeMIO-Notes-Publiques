@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451545427",
+    "tag": "v2027.1.12",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.12",
+    "publishedAt": "2026-11-19T15:36:41Z",
+    "observedAt": "2026-11-19T15:57:24.902Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.12 · Windows\n\nAprès la saisie du code LIVE et la confirmation d’enregistrement éventuelle, StageMark ouvre directement le projet de la session dans l’éditeur. Un plan est disponible pour chaque groupe. Les modifications des plans StageMark sont envoyées à la session et les révisions reçues s’affichent automatiquement hors conflit. Si deux postes modifient la même révision, les modifications locales restent disponibles pour examen ou copie.\n\nAvec un hôte StageFlow compatible, ouvrez **Patch → groupe → Modifier le plan partagé** pour voir et déplacer les repères du dessin Rider. Les deux éditeurs lisent la même révision, y compris sur des PC différents.\n\nAfter entering a LIVE code and completing any save prompt, StageMark opens the session project directly in the editor. Each group has a plan. StageMark plan edits are published to the session, and incoming revisions appear automatically when there is no conflict. If two workstations edit the same revision, local edits remain available for review or saving a copy.\n\nWith a compatible StageFlow host, open **Patch → group → Edit shared plan** to view and move markers on the Rider drawing. Both editors read the same revision across workstations.\n\nLa recette croisée a vérifié le transfert dans les deux sens sur un PC Windows avec les composants réseau réels. Les scénarios de liaison sur deux PC physiques et la projection restent à vérifier sur place. Les paquets macOS sont disponibles dans la [version 2027.1.11](https://github.com/Mamat79/StageMark/releases/tag/v2027.1.11).\n\nCross-application testing verified transfers in both directions on one Windows PC using the real network components. Two physical PCs and projection hardware remain to be checked on location. macOS packages are available in [version 2027.1.11](https://github.com/Mamat79/StageMark/releases/tag/v2027.1.11).",
+    "contentSha256": "abe1d2c6b8d25cc94562ae491869b8f45b7656c85966e6fe522001887e21e85a"
+  },
+  {
     "releaseId": "451407270",
     "tag": "v2027.1.11",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.11",
