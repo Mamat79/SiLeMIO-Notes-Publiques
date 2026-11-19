@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451407270",
+    "tag": "v2027.1.11",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.11",
+    "publishedAt": "2026-11-19T13:48:21Z",
+    "observedAt": "2026-11-19T13:55:06.137Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.11\n\n## Français\n\n- **Plan de groupe partagé avec StageFlow.** Ouvrez le même projet local `.stageflow`, puis choisissez **Patch → groupe → Modifier le plan partagé**. La fiche technique du groupe sert de fond et peut être masquée.\n- **Édition du plan.** Choisissez les micros à placer. Déplacez ou supprimez les repères, les contours et leurs points. Les deux applications relisent le même dessin et signalent les modifications concurrentes.\n- **Usage local.** Le dessin partagé s’édite dans sa propre fenêtre. Les réglages métriques de la scène, la calibration et les sorties de projection se gèrent dans StageMark.\n\n- **Suivi des fichiers du projet.** StageMark conserve la surveillance du dossier principal quand de nouveaux dossiers de projet apparaissent.\n\n## English\n\n- **Group stage plan shared with StageFlow.** Open the same local `.stageflow` project and choose **Patch → group → Edit shared plan**. The group's rider is available as a background and can be hidden.\n- **Plan editing.** Choose the microphones to place. Move or remove markers, outlines and their vertices. Both applications read back the same drawing and report concurrent edits.\n- **Local workflow.** Edit the shared drawing in its own window. Manage metric stage settings, calibration and projection output in StageMark.\n- **Project file monitoring.** StageMark keeps watching the main folder when new project folders appear.",
+    "contentSha256": "d743a9fd0313853acf238c0d9f17a7fd4b30bcb10c3dbe7d7a052daa21174915"
+  },
+  {
     "releaseId": "449396903",
     "tag": "v2027.1.10",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.10",

@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451400669",
+    "tag": "v2027.1.20",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.20",
+    "publishedAt": "2026-11-19T13:48:20Z",
+    "observedAt": "2026-11-19T13:55:06.137Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageFlow 2027.1.20\n\n## Français\n\n- **Patch commun à la demande.** La case **Commun** démarre décochée dans les nouveaux groupes et sur les nouvelles paires. Cochez-la pour utiliser le patch commun sur cette paire. Les groupes déjà enregistrés conservent leurs réglages.\n- **Plans importés éditables.** Ouvrez **Plan de scène** depuis le groupe. La page de sa fiche technique s’affiche en fond. Tracez ou simplifiez le dessin, et sélectionnez les micros à placer. Vous pouvez déplacer et supprimer les repères sans modifier le patch.\n- **Le même plan dans StageMark.** Ouvrez le même projet local `.stageflow` dans les deux applications. Les tracés et les repères du plan de groupe se mettent à jour dans les deux sens. Une modification concurrente est signalée. La fiche originale reste disponible en fond.\n\n## English\n\n- **Opt into the common patch.** New groups and newly added pairs start with **Common** unchecked. Check it to inherit the common patch for that pair. Existing groups keep their settings.\n- **Editable imported stage plans.** Open **Stage plan** for the group. Use its rider page as a background. Trace or simplify the drawing and choose individual microphones to place. Move or remove markers while keeping the patch intact.\n- **The same plan in StageMark.** Open the same local `.stageflow` project in both applications. The group's plan outlines and markers update both ways, and conflicting edits are reported. The original rider remains available as a background.",
+    "contentSha256": "ccbd73e12d86c900cd8267d824f7a5993fdf5a39ba1f44ed6389e6116554da22"
+  },
+  {
     "releaseId": "450695758",
     "tag": "v2027.1.19",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.19",

@@ -1,5 +1,23 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.20 · 2026-11-19 · unspecified · original
+
+# StageFlow 2027.1.20
+
+## Français
+
+- **Patch commun à la demande.** La case **Commun** démarre décochée dans les nouveaux groupes et sur les nouvelles paires. Cochez-la pour utiliser le patch commun sur cette paire. Les groupes déjà enregistrés conservent leurs réglages.
+- **Plans importés éditables.** Ouvrez **Plan de scène** depuis le groupe. La page de sa fiche technique s’affiche en fond. Tracez ou simplifiez le dessin, et sélectionnez les micros à placer. Vous pouvez déplacer et supprimer les repères sans modifier le patch.
+- **Le même plan dans StageMark.** Ouvrez le même projet local `.stageflow` dans les deux applications. Les tracés et les repères du plan de groupe se mettent à jour dans les deux sens. Une modification concurrente est signalée. La fiche originale reste disponible en fond.
+
+## English
+
+- **Opt into the common patch.** New groups and newly added pairs start with **Common** unchecked. Check it to inherit the common patch for that pair. Existing groups keep their settings.
+- **Editable imported stage plans.** Open **Stage plan** for the group. Use its rider page as a background. Trace or simplify the drawing and choose individual microphones to place. Move or remove markers while keeping the patch intact.
+- **The same plan in StageMark.** Open the same local `.stageflow` project in both applications. The group's plan outlines and markers update both ways, and conflicting edits are reported. The original rider remains available as a background.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.20
+
 ## v2027.1.19 · 2026-11-18 · unspecified · original
 
 # StageFlow 2027.1.19
