@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451802697",
+    "tag": "v2027.1.14",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.14",
+    "publishedAt": "2026-11-19T20:16:28Z",
+    "observedAt": "2026-11-19T20:20:52.154Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.14 · macOS\n\n- Dans **Connexion StageFlow**, choisissez le réseau local utilisé, sélectionnez le projet détecté et entrez son code. Le projet LIVE s’ouvre dans l’éditeur avec un plan par groupe lors de la première ouverture d’un projet sans dessin StageMark enregistré.\n- Avec **StageFlow 2027.1.25 pour Mac**, **Ouvrir StageMark** transmet la session hébergée ou rejointe sur le même Mac. StageMark propose d’enregistrer un autre projet modifié avant de basculer.\n- Les modifications des plans StageMark et Rider partagés sont synchronisées dans les deux sens par défaut. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications.\n\n- In **StageFlow Connection**, choose the local network interface, select the discovered project and enter its code. The LIVE editor opens with one plan per group when opening a project without a saved StageMark drawing for the first time.\n- With **StageFlow 2027.1.25 for Mac**, **Open StageMark** passes the session hosted or joined on the same Mac. StageMark offers to save a different modified project before switching.\n- Shared StageMark and Rider plan edits sync in both directions by default. After pausing, choose whether to receive the session version or send your edits.",
+    "contentSha256": "dafa3cba24d26ada724e2514fc9207b0ba566c24c2d6bad30c9f5eaf3eaf8174"
+  },
+  {
     "releaseId": "451750256",
     "tag": "v2027.1.13",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.13",

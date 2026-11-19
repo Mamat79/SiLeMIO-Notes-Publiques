@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "451813569",
+    "tag": "v2027.1.25",
+    "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.25",
+    "publishedAt": "2026-11-19T20:16:57Z",
+    "observedAt": "2026-11-19T20:20:52.154Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageFlow 2027.1.25 pour macOS\n\n## Français\n\n- Depuis **Rejoindre une session**, ouvrez le projet LIVE dans la fenêtre principale de StageFlow. Le patch est éditable dans les deux sens avec un hôte compatible. **Synchroniser le patch** permet de conserver temporairement un brouillon local. À la reprise, choisissez de recevoir l’état de la session ou d’envoyer vos modifications. Les conflits sont signalés.\n- Les plans importés sont partagés par groupe. Déplacez les repères du plan, tracez point par point ou suspendez la synchronisation du plan pour reprendre dans le sens choisi. StageMark 2027.1.14 pour macOS s’ouvre directement sur le même projet LIVE depuis un hôte ou un poste connecté StageFlow compatible.\n- Les téléchargements Windows restent sur StageFlow 2027.1.24.\n\n## English\n\n- From **Join a session**, open the LIVE project in the main StageFlow window. Patch edits sync in both directions with a compatible host. Pause patch synchronization to work on a local draft. When resuming, choose to receive the session state or send your edits. Conflicts are reported.\n- Imported plans are shared per group. Move markers, draw point by point, or pause plan synchronization and choose which direction to resume. StageMark 2027.1.14 for macOS opens the same LIVE project from a compatible StageFlow host or joined workstation.\n- Windows downloads remain on StageFlow 2027.1.24.",
+    "contentSha256": "da2b266671df4b942a49c3033ab66b269405435aab71e6422d34104c9d170691"
+  },
+  {
     "releaseId": "451755204",
     "tag": "v2027.1.24",
     "source": "https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.24",

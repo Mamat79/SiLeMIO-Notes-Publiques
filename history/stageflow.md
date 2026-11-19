@@ -1,5 +1,23 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.25 · 2026-11-19 · unspecified · original
+
+# StageFlow 2027.1.25 pour macOS
+
+## Français
+
+- Depuis **Rejoindre une session**, ouvrez le projet LIVE dans la fenêtre principale de StageFlow. Le patch est éditable dans les deux sens avec un hôte compatible. **Synchroniser le patch** permet de conserver temporairement un brouillon local. À la reprise, choisissez de recevoir l’état de la session ou d’envoyer vos modifications. Les conflits sont signalés.
+- Les plans importés sont partagés par groupe. Déplacez les repères du plan, tracez point par point ou suspendez la synchronisation du plan pour reprendre dans le sens choisi. StageMark 2027.1.14 pour macOS s’ouvre directement sur le même projet LIVE depuis un hôte ou un poste connecté StageFlow compatible.
+- Les téléchargements Windows restent sur StageFlow 2027.1.24.
+
+## English
+
+- From **Join a session**, open the LIVE project in the main StageFlow window. Patch edits sync in both directions with a compatible host. Pause patch synchronization to work on a local draft. When resuming, choose to receive the session state or send your edits. Conflicts are reported.
+- Imported plans are shared per group. Move markers, draw point by point, or pause plan synchronization and choose which direction to resume. StageMark 2027.1.14 for macOS opens the same LIVE project from a compatible StageFlow host or joined workstation.
+- Windows downloads remain on StageFlow 2027.1.24.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.25
+
 ## v2027.1.24 · 2026-11-19 · unspecified · original
 
 # StageFlow 2027.1.24 pour Windows
