@@ -1,5 +1,27 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.22 · 2026-11-19 · unspecified · original
+
+# StageFlow 2027.1.22 — Windows
+
+## Français
+
+- **Basculer dans la session LIVE.** Rejoignez d’abord la session dans l’aperçu en lecture seule. Cliquez sur **Basculer dans la session LIVE** pour ouvrir le projet diffusé dans la fenêtre principale. StageFlow propose d’enregistrer les modifications locales avant de basculer. Quitter la session rétablit le projet local.
+- **Modifier le patch depuis les deux PC.** Avec StageFlow 2027.1.22 sur les deux postes Windows, les saisies effectuées dans la grille sont envoyées à l’hôte puis répercutées sur les postes connectés. StageFlow signale les modifications concurrentes d’une même cellule.
+- **Gérer ses alertes.** Chaque poste peut recevoir, mettre en sourdine et acquitter ses alertes indépendamment. L’auteur d’une saisie ne reçoit pas sa propre alerte.
+
+Les téléchargements Mac Apple Silicon et Intel restent en 2027.1.21.
+
+## English
+
+- **Switch to the LIVE session.** Join in the read-only preview, then select **Switch to LIVE session** to open the broadcast project in the main window. StageFlow offers to save local changes before switching. Leaving the session restores the local project.
+- **Edit the patch from both PCs.** With StageFlow 2027.1.22 on both Windows computers, grid edits go to the host and update the connected computers. StageFlow reports conflicting edits to the same cell.
+- **Manage your own alerts.** Each computer can receive, mute and acknowledge its alerts independently. The person who makes an edit does not receive their own alert.
+
+Apple Silicon and Intel Mac downloads remain on 2027.1.21.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.22
+
 ## v2027.1.21 · 2026-11-19 · unspecified · original
 
 # StageFlow 2027.1.21
