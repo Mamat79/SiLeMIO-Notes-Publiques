@@ -2,6 +2,22 @@
 
 ## v2027.1.21 · 2026-11-19 · unspecified · original
 
+# StageFlow 2027.1.21
+
+## Français
+
+- **Rejoindre une session StageFlow LIVE.** Depuis un autre poste, cliquez sur **Rejoindre une session LIVE…** dans StageFlow, sélectionnez le projet diffusé sur le réseau local et saisissez le code à six chiffres affiché chez l’hôte. Si le projet n’apparaît pas, saisissez l’adresse complète affichée chez l’hôte.
+- **Suivre le patch en direct.** Choisissez le groupe à consulter. Le patch distant se met à jour dans une fenêtre en lecture seule, et le projet local reste ouvert. Fermez cette fenêtre ou cliquez sur **Quitter la session** pour vous déconnecter.
+
+## English
+
+- **Join a StageFlow LIVE session.** On another computer, select **Join a LIVE session…** in StageFlow, choose the project broadcast on the local network, and enter the host’s six-digit code. If the project is not listed, enter the full address shown on the host.
+- **Follow the live patch.** Select the group to view. The remote patch updates in a read-only window, and your local project stays open. Close the window or click **Leave session** to disconnect.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.21
+
+## v2027.1.21 · 2026-11-19 · unspecified · original
+
 Windows 2027.1.21 est disponible. Les versions macOS Apple Silicon et Intel restent en 2027.1.20 pendant la qualification de la 2027.1.21.
 
 # StageFlow 2027.1.21
