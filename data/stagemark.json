@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "452920375",
+    "tag": "v2027.1.16",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.16",
+    "publishedAt": "2026-11-20T16:26:18Z",
+    "observedAt": "2026-11-20T20:17:24.886Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.16 · Windows\n\n- À l’ouverture d’un projet StageFlow local ou LIVE, **Plan affiché** et **Plans** proposent un plan par groupe, dans l’ordre StageFlow. Vous pouvez ajouter des plans supplémentaires et conserver vos dessins existants.\n- L’image, les repères et les tracés importés depuis une fiche technique apparaissent sur le canevas du groupe. Ouvrez **Modifier le plan partagé** pour déplacer les repères, modifier les tracés ou régler l’image.\n- Le lancement de StageMark depuis une session LIVE de **StageFlow 2027.1.26** reprend la session et son groupe. Les repères et tracés partagés se synchronisent dans les deux sens. Vous pouvez suspendre la synchronisation et choisir le sens à la reprise.\n\n- When opening a local or LIVE StageFlow project, **Visible plan** and **Plans** list one plan per group in StageFlow order. You can add extra plans and keep your existing drawings.\n- A technical rider’s image, markers, and paths appear on the group’s canvas. Use **Edit shared plan** to move markers, edit paths, or adjust the image.\n- Launching StageMark from a LIVE session in **StageFlow 2027.1.26** opens that session and its active group. Shared markers and paths sync in both directions. You can pause sync and choose its direction when resuming.",
+    "contentSha256": "b780a51e1e73515793047a05b12722c2f855ea43b0237b73f11a070d451e2c5c"
+  },
+  {
     "releaseId": "452816082",
     "tag": "v2027.1.15",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.15",

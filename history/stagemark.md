@@ -1,5 +1,19 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.16 · 2026-11-20 · unspecified · original
+
+# StageMark 2027.1.16 · Windows
+
+- À l’ouverture d’un projet StageFlow local ou LIVE, **Plan affiché** et **Plans** proposent un plan par groupe, dans l’ordre StageFlow. Vous pouvez ajouter des plans supplémentaires et conserver vos dessins existants.
+- L’image, les repères et les tracés importés depuis une fiche technique apparaissent sur le canevas du groupe. Ouvrez **Modifier le plan partagé** pour déplacer les repères, modifier les tracés ou régler l’image.
+- Le lancement de StageMark depuis une session LIVE de **StageFlow 2027.1.26** reprend la session et son groupe. Les repères et tracés partagés se synchronisent dans les deux sens. Vous pouvez suspendre la synchronisation et choisir le sens à la reprise.
+
+- When opening a local or LIVE StageFlow project, **Visible plan** and **Plans** list one plan per group in StageFlow order. You can add extra plans and keep your existing drawings.
+- A technical rider’s image, markers, and paths appear on the group’s canvas. Use **Edit shared plan** to move markers, edit paths, or adjust the image.
+- Launching StageMark from a LIVE session in **StageFlow 2027.1.26** opens that session and its active group. Shared markers and paths sync in both directions. You can pause sync and choose its direction when resuming.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.16
+
 ## v2027.1.15 · 2026-11-20 · unspecified · original
 
 # StageMark 2027.1.15 · Windows
