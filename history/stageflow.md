@@ -1,5 +1,29 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.26 · 2026-11-20 · unspecified · original
+
+# StageFlow 2027.1.26 pour Windows
+
+## Français
+
+- **Importer des fiches techniques** accepte plusieurs PDF ou XLSX à la fois. **Ajouter un dossier** parcourt aussi ses sous-dossiers accessibles. Vérifiez la liste, retirez les fichiers inutiles, puis lancez l’analyse. Les fiches complémentaires d’un même groupe peuvent alimenter le même groupe.
+- Lors de la première installation de l’IA locale depuis le bouton d’import, un message confirme que le modèle est installé. Cliquez sur **OK** pour ouvrir la liste d’import.
+- **Plan de scène** se trouve juste après **Importer des fiches techniques**. Pour un groupe dont la fiche contient un plan importé, **Image du plan** permet de régler la taille, d’assombrir l’image, de la masquer ou de revenir aux réglages d’origine. La poignée bleue permet aussi de modifier la taille en conservant les proportions.
+- Chaque groupe dispose d’un onglet **Plan de scène** pour retrouver l’image attachée. Si le plan manque dans un groupe existant, **Associer une page PDF** permet de récupérer la page du document en conservant le patch et les notes.
+- **Vectoriser l’image** ajoute les contours détectés sous forme de tracés éditables. L’image d’origine reste disponible. Les réglages d’image, les tracés et les repères du plan du groupe se synchronisent avec StageMark 2027.1.15 pour Windows dans le projet local ou dans une session StageFlow LIVE compatible.
+- L’ouverture de StageMark, StageDesk, StageMon ou Dante Config Editor depuis les commandes de la suite transmet le projet StageFlow courant au logiciel compatible. StageMark peut rejoindre directement la session LIVE du poste hôte ou d’un poste déjà connecté.
+
+## English
+
+- **Import technical riders** accepts multiple PDF or XLSX files at once. **Add folder** also looks through accessible subfolders. Review the list, remove any unwanted files, and start analysis. Complementary riders for the same group can be combined.
+- When you install the local AI model for the first time from the import button, a message confirms that it is ready. Select **OK** to open the import queue.
+- **Stage plan** now follows **Import technical riders**. For a group with an imported stage plot, **Plan image** lets you resize, darken, hide, or reset the original image. You can also drag the blue handle to resize while keeping the aspect ratio.
+- Each group has a **Stage plan** tab to find the attached image. If an existing group is missing its plot, **Attach a PDF page** brings the page into that group and keeps its patch and notes.
+- **Vectorize image** adds detected outlines as editable paths and retains the source image. Image settings, paths and markers sync with StageMark 2027.1.15 for Windows in a local project or compatible StageFlow LIVE session.
+- Opening StageMark, StageDesk, StageMon or Dante Config Editor with the suite controls passes the current StageFlow project to the compatible application. StageMark can join the LIVE session directly from a host or joined workstation.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.26
+
 ## v2027.1.25 · 2026-11-19 · unspecified · original
 
 # StageFlow 2027.1.25 pour macOS

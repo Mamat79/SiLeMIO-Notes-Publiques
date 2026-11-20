@@ -1,5 +1,21 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.15 · 2026-11-20 · unspecified · original
+
+# StageMark 2027.1.15 · Windows
+
+- Dans **Patch → Modifier le plan partagé**, agrandissez ou réduisez l’image de la fiche technique avec le curseur **Taille de l’image** ou en faisant glisser sa poignée. Réglez sa luminosité, masquez-la ou réinitialisez-la depuis **Image du plan**.
+- Les repères et les tracés conservent leurs coordonnées. Les réglages d’image sont enregistrés dans le plan du groupe et apparaissent dans son aperçu.
+- En LIVE, les réglages d’image sont partagés dans les deux sens avec **StageFlow 2027.1.26**. La pause de synchronisation permet de choisir ensuite entre recevoir le plan de la session et envoyer ses modifications.
+- L’ouverture directe d’un projet StageFlow V1 accepte les notes de groupe et les circuits enregistrés dans leur format historique.
+
+- In **Patch → Edit shared plan**, resize the rider image with the **Image size** slider or by dragging its handle. Use **Plan image** to change its brightness, hide it or reset its display.
+- Markers and paths retain their coordinates. Image settings are saved in the group’s plan and appear in its preview.
+- In LIVE, image settings sync in both directions with **StageFlow 2027.1.26**. Pause sync to choose whether to receive the session plan or send your edits when resuming.
+- Opening a StageFlow V1 project directly supports group notes and circuits stored in their historical format.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.15
+
 ## v2027.1.14 · 2026-11-19 · unspecified · original
 
 # StageMark 2027.1.14 · macOS
