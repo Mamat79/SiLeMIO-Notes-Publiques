@@ -1,5 +1,45 @@
 # Dante Config Editor — Notes de version / Release notes
 
+## v2027.3.2 · 2026-11-20 · unspecified · en
+
+# Dante Config Editor 2027.3.2 (Windows)
+
+- On Project and Patch, **Add XML configurations** applies a ready batch directly and opens the Project import list when a decision is needed.
+- **Import formats** merges 2.1.0 and 3.0.0 presets in either direction. A mixed-version merge produces a 3.0.0 XML and preserves both source files.
+- If a fixed IP is already used in the project, DCE identifies the affected incoming devices and offers to switch them to automatic IP before adding them.
+- In the matrix, **Enter** or **Tab** commits the channel name and moves to the next channel. **Shift+Tab** moves back. **Esc** discards the current edit.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.2
+
+## v2027.3.2 · 2026-11-20 · unspecified · fr
+
+# Dante Config Editor 2027.3.2 (Windows)
+
+- Dans Projet et Patch, **Ajouter des configurations XML** ajoute directement un lot prêt et ouvre la liste de la page Projet quand une décision est requise.
+- **Formats d’import** combine les presets 2.1.0 et 3.0.0 dans les deux sens. Une fusion entre ces deux formats produit un XML 3.0.0 et préserve les fichiers sources.
+- Si une IP fixe est déjà utilisée dans le projet, DCE indique les appareils importés concernés et propose de les passer en IP automatique avant l’ajout.
+- Dans la grille, **Entrée** ou **Tab** valide le nom du canal et passe au suivant. **Maj+Tab** revient au précédent. **Échap** abandonne la saisie en cours.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.2
+
+## v2027.3.2 · 2026-11-20 · unspecified · original
+
+# Dante Config Editor 2027.3.2 (Windows)
+
+- Dans Projet et Patch, **Ajouter des configurations XML** ajoute directement un lot prêt et ouvre la liste de la page Projet quand une décision est requise.
+- **Formats d’import** combine les presets 2.1.0 et 3.0.0 dans les deux sens. Une fusion entre ces deux formats produit un XML 3.0.0 et préserve les fichiers sources.
+- Si une IP fixe est déjà utilisée dans le projet, DCE indique les appareils importés concernés et propose de les passer en IP automatique avant l’ajout.
+- Dans la grille, **Entrée** ou **Tab** valide le nom du canal et passe au suivant. **Maj+Tab** revient au précédent. **Échap** abandonne la saisie en cours.
+
+# Dante Config Editor 2027.3.2 (Windows)
+
+- On Project and Patch, **Add XML configurations** applies a ready batch directly and opens the Project import list when a decision is needed.
+- **Import formats** merges 2.1.0 and 3.0.0 presets in either direction. A mixed-version merge produces a 3.0.0 XML and preserves both source files.
+- If a fixed IP is already used in the project, DCE identifies the affected incoming devices and offers to switch them to automatic IP before adding them.
+- In the matrix, **Enter** or **Tab** commits the channel name and moves to the next channel. **Shift+Tab** moves back. **Esc** discards the current edit.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.2
+
 ## v2027.3.1 · 2026-11-18 · unspecified · en
 
 # Dante Config Editor 2027.3.1
