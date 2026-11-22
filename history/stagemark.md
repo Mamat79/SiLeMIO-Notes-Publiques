@@ -1,5 +1,23 @@
 # StageMark — Notes de version / Release notes
 
+## v2027.1.17 · 2026-11-22 · unspecified · original
+
+# StageMark 2027.1.17 · macOS
+
+## Français
+
+- En ouvrant un projet StageFlow local ou LIVE, retrouvez un plan par groupe dans **Plan affiché** et **Plans**, avec les noms et l’ordre de StageFlow. Les dessins existants sont conservés et vous pouvez ajouter des plans libres.
+- L’image, les repères et les tracés du Rider importé s’affichent sur le canevas de son groupe. **Modifier le plan partagé** permet de modifier le dessin, de redimensionner l’image, d’en régler la luminosité ou de la masquer en préservant les coordonnées des repères et tracés.
+- **Ouvrir StageMark** dans StageFlow reprend le projet et son groupe actif sur le même Mac. Avec **StageFlow 2027.1.27 pour Mac**, les réglages d’image sont partagés en LIVE. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications.
+
+## English
+
+- Open a local or LIVE StageFlow project to see one plan per group in **Visible plan** and **Plans**, using StageFlow’s group names and order. Existing drawings are kept and you can add unlinked plans.
+- The imported rider image, markers and paths appear on the group’s canvas. Use **Edit shared plan** to edit the drawing, resize or dim the image, or hide it while preserving marker and path coordinates.
+- **Open StageMark** in StageFlow opens the project and its active group on the same Mac. With **StageFlow 2027.1.27 for Mac**, image settings are shared over LIVE. After pausing, choose whether to receive the session version or send your edits.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.17
+
 ## v2027.1.16 · 2026-11-20 · unspecified · original
 
 # StageMark 2027.1.16 · Windows

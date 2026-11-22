@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "454507309",
+    "tag": "v2027.1.17",
+    "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.17",
+    "publishedAt": "2026-11-22T14:49:29Z",
+    "observedAt": "2026-11-22T14:53:37.509Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageMark 2027.1.17 · macOS\n\n## Français\n\n- En ouvrant un projet StageFlow local ou LIVE, retrouvez un plan par groupe dans **Plan affiché** et **Plans**, avec les noms et l’ordre de StageFlow. Les dessins existants sont conservés et vous pouvez ajouter des plans libres.\n- L’image, les repères et les tracés du Rider importé s’affichent sur le canevas de son groupe. **Modifier le plan partagé** permet de modifier le dessin, de redimensionner l’image, d’en régler la luminosité ou de la masquer en préservant les coordonnées des repères et tracés.\n- **Ouvrir StageMark** dans StageFlow reprend le projet et son groupe actif sur le même Mac. Avec **StageFlow 2027.1.27 pour Mac**, les réglages d’image sont partagés en LIVE. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications.\n\n## English\n\n- Open a local or LIVE StageFlow project to see one plan per group in **Visible plan** and **Plans**, using StageFlow’s group names and order. Existing drawings are kept and you can add unlinked plans.\n- The imported rider image, markers and paths appear on the group’s canvas. Use **Edit shared plan** to edit the drawing, resize or dim the image, or hide it while preserving marker and path coordinates.\n- **Open StageMark** in StageFlow opens the project and its active group on the same Mac. With **StageFlow 2027.1.27 for Mac**, image settings are shared over LIVE. After pausing, choose whether to receive the session version or send your edits.",
+    "contentSha256": "b3b0b89e0956aced18dfe80797499ed2932a33241e9dcc5dbf1883d9323163bf"
+  },
+  {
     "releaseId": "452920375",
     "tag": "v2027.1.16",
     "source": "https://github.com/Mamat79/StageMark/releases/tag/v2027.1.16",

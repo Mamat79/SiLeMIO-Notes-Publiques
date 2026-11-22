@@ -1,5 +1,43 @@
 # StageFlow — Notes de version / Release notes
 
+## v2027.1.27 · 2026-11-22 · unspecified · original
+
+# StageFlow 2027.1.27 pour macOS / for macOS
+
+## Français
+
+### 2027.1.27 · macOS Apple Silicon et Intel
+
+- **Importer des fiches techniques** accepte plusieurs PDF ou XLSX et la sélection d’un dossier avec ses sous-dossiers. Vérifiez la liste avant de lancer l’analyse.
+- Après la première installation du modèle local, **OK** ramène directement à l’import si vous y avez lancé le téléchargement. **Plan de scène** se trouve juste après le bouton d’import.
+- Ouvrez le plan du groupe, puis **Image du plan** pour régler sa taille et sa luminosité, la masquer ou rétablir ses réglages. L’image d’origine et les coordonnées des repères et tracés sont conservées. Ces réglages sont partagés avec StageMark 2027.1.17 pour macOS ou 2027.1.16 pour Windows.
+
+### 2027.1.26 · Windows
+
+- Import de dossiers et sous-dossiers, onglet **Plan de scène** par groupe, association d’une page PDF aux groupes existants et réglages de l’image du plan.
+
+### 2027.1.25 · macOS
+
+- Intégration du projet LIVE dans la fenêtre principale, modifications du patch dans les deux sens, repères et tracés partagés par groupe, ouverture de StageMark sur le même projet LIVE.
+
+## English
+
+### 2027.1.27 · Apple Silicon and Intel Macs
+
+- **Import technical riders** accepts multiple PDF or XLSX files or a folder and its subfolders. Review the list before starting analysis.
+- After the first local model installation, **OK** returns to import if you started the download there. **Stage plan** follows the import button.
+- Open the group plan, then **Plan image** to resize, darken, hide, or reset the image. The source image and the positions of markers and paths are preserved. Settings are shared with StageMark 2027.1.17 for macOS or 2027.1.16 for Windows.
+
+### 2027.1.26 · Windows
+
+- Folder and subfolder import, a **Stage plan** tab for each group, attaching a PDF page to an existing group, and background image settings.
+
+### 2027.1.25 · macOS
+
+- LIVE projects in the main window, two-way patch editing, shared markers and paths per group, and opening StageMark in the same LIVE project.
+
+Source : https://github.com/Mamat79/StageFlow/releases/tag/v2027.1.27
+
 ## v2027.1.26 · 2026-11-20 · unspecified · original
 
 # StageFlow 2027.1.26 pour Windows
