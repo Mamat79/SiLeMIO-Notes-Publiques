@@ -1,5 +1,59 @@
 # StageDesk — Notes de version / Release notes
 
+## v2027.1.26 · 2026-11-22 · unspecified · en
+
+# StageDesk 2027.1.26 · Windows x64
+
+- The dLive and Avantis network preview lists selected changes to Current. StageDesk reads back labels and colours on both families and also checks mutes and supported fader steps on dLive.
+- The group and pair pulse while a StageFlow LIVE label alert is unread.
+- The Windows trial includes every feature for 30 days, including offline. The first launch after the trial requires a licence. Reinstalling under the same Windows account keeps the start date. Existing activations retain their entitlements and work offline.
+- Windows manuals are available in French and English. Physical console testing remains pending.
+
+Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26
+
+## v2027.1.26 · 2026-11-22 · unspecified · fr
+
+# StageDesk 2027.1.26 · Windows x64
+
+- L’aperçu réseau dLive et Avantis détaille les changements sélectionnés sur Current. StageDesk relit les labels et couleurs sur les deux familles, et les mutes et paliers de fader reconnus sur dLive.
+- Le groupe et la paire clignotent tant qu’une alerte StageFlow LIVE de label reste à lire.
+- L’essai Windows donne accès à toutes les fonctions pendant 30 jours, même hors ligne. Le premier démarrage après l’essai demande une licence. Une réinstallation sous le même compte conserve la date de départ. Les licences déjà activées gardent leurs droits et fonctionnent hors ligne.
+- Les guides Windows sont disponibles en français et en anglais. La recette sur console physique reste à faire.
+
+Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26
+
+## v2027.1.26 · 2026-11-22 · unspecified · original
+
+# StageDesk 2027.1.26
+
+## Français
+
+- **dLive et Avantis en réseau local.** L’aperçu de Current liste les changements sélectionnés et les valeurs lisibles avant envoi. StageDesk relit les labels et les couleurs sur les deux familles, ainsi que les mutes et les paliers de fader reconnus sur dLive. Les autres paramètres envoyés peuvent demander une vérification sur la console.
+- **StageFlow LIVE.** Un point clignote sur le groupe et la paire concernés tant qu’une alerte de label reste à lire.
+- **macOS.** L’usage reste gratuit, même hors ligne. L’activation d’un nouveau code est disponible sur Windows.
+- Les notices FR et EN couvrent les protocoles réseau, les transferts et les vérifications manuelles. L’essai réseau sur une console physique reste à faire.
+
+Disponible pour Windows x64, macOS Apple Silicon et macOS Intel.
+
+- L’essai Windows donne accès à toutes les fonctions pendant 30 jours, même hors ligne. Le premier démarrage après l’essai demande une licence. Une réinstallation sous le même compte conserve la date de départ. Les licences déjà activées gardent leurs droits et fonctionnent hors ligne.
+
+[Notes Windows FR](https://github.com/Mamat79/StageDesk/releases/download/v2027.1.26/RELEASE_NOTES_2027.1.26-WINDOWS-FR.md)
+
+## English
+
+- **dLive and Avantis on the local network.** The Current preview lists selected changes and readable values before sending. StageDesk reads back labels and colours on both families and also checks mutes and supported fader steps on dLive. Other sent settings may require a check on the console.
+- **StageFlow LIVE.** A dot pulses on the affected group and pair while a label alert is unread.
+- **macOS.** StageDesk remains free to use, including offline. New licence code activation is available on Windows.
+- The French and English manuals cover networking protocols, transfer and manual checks. Physical console testing remains pending.
+
+Available for Windows x64, macOS Apple Silicon and macOS Intel.
+
+- The Windows trial includes every feature for 30 days, including offline. The first launch after the trial requires a licence. Reinstalling under the same Windows account keeps the start date. Existing activations retain their entitlements and work offline.
+
+[Windows release notes EN](https://github.com/Mamat79/StageDesk/releases/download/v2027.1.26/RELEASE_NOTES_2027.1.26-WINDOWS-EN.md)
+
+Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26
+
 ## v2027.1.26 · 2026-11-22 · unspecified · original
 
 # StageDesk 2027.1.26 · macOS
