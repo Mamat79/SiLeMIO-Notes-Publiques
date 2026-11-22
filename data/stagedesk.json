@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "454513335",
+    "tag": "v2027.1.26",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26",
+    "publishedAt": "2026-11-22T14:42:09Z",
+    "observedAt": "2026-11-22T14:42:57.439Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.26 · macOS\n\n## Français\n\n- **dLive et Avantis en réseau local.** L’aperçu de Current liste les changements sélectionnés et les valeurs lisibles avant envoi. StageDesk relit les labels et les couleurs sur les deux familles, ainsi que les mutes et les paliers de fader reconnus sur dLive. Les autres paramètres envoyés peuvent demander une vérification sur la console.\n- **StageFlow LIVE.** Un point clignote sur le groupe et la paire concernés tant qu’une alerte de label reste à lire.\n- **macOS.** L’usage reste gratuit, même hors ligne. L’activation d’un nouveau code est disponible sur Windows.\n- Les notices FR et EN couvrent les protocoles réseau, les transferts et les vérifications manuelles. L’essai réseau sur une console physique reste à faire.\n\nCette version Mac est disponible pour Apple Silicon et Intel. Pour Windows, la version publique reste la 2027.1.25.\n\n## English\n\n- **dLive and Avantis on the local network.** The Current preview lists selected changes and readable values before sending. StageDesk reads back labels and colours on both families and also checks mutes and supported fader steps on dLive. Other sent settings may require a check on the console.\n- **StageFlow LIVE.** A dot pulses on the affected group and pair while a label alert is unread.\n- **macOS.** StageDesk remains free to use, including offline. New licence code activation is available on Windows.\n- The French and English manuals cover networking protocols, transfer and manual checks. Physical console testing remains pending.\n\nThis Mac release is available for Apple Silicon and Intel. The public Windows release remains 2027.1.25.",
+    "contentSha256": "0b40f92644f68129bd32130e70f3468cd5e1fa2abe5c43564f030682b2f66aa6"
+  },
+  {
     "releaseId": "449387297",
     "tag": "v2027.1.25",
     "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.25",

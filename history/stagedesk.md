@@ -1,5 +1,29 @@
 # StageDesk — Notes de version / Release notes
 
+## v2027.1.26 · 2026-11-22 · unspecified · original
+
+# StageDesk 2027.1.26 · macOS
+
+## Français
+
+- **dLive et Avantis en réseau local.** L’aperçu de Current liste les changements sélectionnés et les valeurs lisibles avant envoi. StageDesk relit les labels et les couleurs sur les deux familles, ainsi que les mutes et les paliers de fader reconnus sur dLive. Les autres paramètres envoyés peuvent demander une vérification sur la console.
+- **StageFlow LIVE.** Un point clignote sur le groupe et la paire concernés tant qu’une alerte de label reste à lire.
+- **macOS.** L’usage reste gratuit, même hors ligne. L’activation d’un nouveau code est disponible sur Windows.
+- Les notices FR et EN couvrent les protocoles réseau, les transferts et les vérifications manuelles. L’essai réseau sur une console physique reste à faire.
+
+Cette version Mac est disponible pour Apple Silicon et Intel. Pour Windows, la version publique reste la 2027.1.25.
+
+## English
+
+- **dLive and Avantis on the local network.** The Current preview lists selected changes and readable values before sending. StageDesk reads back labels and colours on both families and also checks mutes and supported fader steps on dLive. Other sent settings may require a check on the console.
+- **StageFlow LIVE.** A dot pulses on the affected group and pair while a label alert is unread.
+- **macOS.** StageDesk remains free to use, including offline. New licence code activation is available on Windows.
+- The French and English manuals cover networking protocols, transfer and manual checks. Physical console testing remains pending.
+
+This Mac release is available for Apple Silicon and Intel. The public Windows release remains 2027.1.25.
+
+Source : https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26
+
 ## v2027.1.25 · 2026-11-18 · unspecified · original
 
 # StageDesk 2027.1.25
