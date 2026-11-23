@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "455854780",
+    "tag": "v2027.1.28",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.28",
+    "publishedAt": "2026-11-23T19:45:55Z",
+    "observedAt": "2026-11-23T19:47:48.761Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.28 · Connexion aux consoles / Console connectivity\n\n## Français\n\n- **Director sur ce PC** utilise la connexion locale de dLive Director ou Avantis Director et détecte le canal MIDI. La détection réseau dLive et Avantis renseigne aussi l’adresse et le canal du résultat choisi.\n- Avant un transfert réseau, choisissez les types de réglages à envoyer parmi ceux disponibles pour la destination. Le transfert direct porte sur **Current**. Utilisez **Show enregistré…** pour travailler sur une scène dans un fichier.\n- La flèche du bandeau Source / Modifier / Convertir est centrée en bas. La licence permanente Windows reste à **49 € TTC**. L’édition Mac reste gratuite.\n\n## English\n\n- **Director on this computer** connects locally to dLive Director or Avantis Director and detects the MIDI channel. For dLive and Avantis network discovery, selecting a result also fills in its address and channel.\n- Choose which supported settings to send before a network transfer. Direct transfers use **Current**. Use **Saved show…** to work on a scene in a show file.\n- The arrow is centred at the bottom of the Source / Edit / Convert strip. The permanent Windows license costs **€49 including tax**. The Mac edition remains free.",
+    "contentSha256": "ccf97b993824d9134e9888b9b4bb7d9357c866078bfaea8f2505060f30484a19"
+  },
+  {
     "releaseId": "455112795",
     "tag": "v2027.1.27",
     "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.27",
