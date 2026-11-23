@@ -2,6 +2,36 @@
 
 ## v2027.1.17 · 2026-11-22 · unspecified · original
 
+# StageMark 2027.1.17 · Windows et macOS / Windows and macOS
+
+## macOS · Français
+
+- En ouvrant un projet StageFlow local ou LIVE, retrouvez un plan par groupe dans **Plan affiché** et **Plans**, avec les noms et l’ordre de StageFlow. Les dessins existants sont conservés et vous pouvez ajouter des plans libres.
+- L’image, les repères et les tracés du Rider importé s’affichent sur le canevas de son groupe. **Modifier le plan partagé** permet de modifier le dessin, de redimensionner l’image, d’en régler la luminosité ou de la masquer en préservant les coordonnées des repères et tracés.
+- **Ouvrir StageMark** dans StageFlow reprend le projet et son groupe actif sur le même Mac. Avec **StageFlow 2027.1.27 pour Mac**, les réglages d’image sont partagés en LIVE. Après une pause, choisissez de recevoir la version de la session ou d’envoyer vos modifications.
+
+## macOS · English
+
+- Open a local or LIVE StageFlow project to see one plan per group in **Visible plan** and **Plans**, using StageFlow’s group names and order. Existing drawings are kept and you can add unlinked plans.
+- The imported rider image, markers and paths appear on the group’s canvas. Use **Edit shared plan** to edit the drawing, resize or dim the image, or hide it while preserving marker and path coordinates.
+- **Open StageMark** in StageFlow opens the project and its active group on the same Mac. With **StageFlow 2027.1.27 for Mac**, image settings are shared over LIVE. After pausing, choose whether to receive the session version or send your edits.
+
+## Windows · Français
+
+- StageMark pour Windows passe à la même version que l’édition macOS. Les projets StageFlow locaux ou LIVE continuent d’afficher un plan par groupe dans les deux sélecteurs, avec l’image Rider sur le canevas du groupe.
+- Le bouton **Ouvrir StageMark** dans StageFlow transmet la session LIVE sur le même PC. Les repères partagés se synchronisent dans les deux sens avec un hôte compatible, notamment StageFlow 2027.1.26.
+- Sous Windows, StageMark propose aussi une sortie Spout 2 et la console locale de présence. Sous macOS, l’ouverture LIVE sur le même poste utilise le service local macOS.
+
+## Windows · English
+
+- StageMark for Windows now shares the macOS release number. Local and LIVE StageFlow projects still show one plan per group in both selectors, with the rider image on its group’s canvas.
+- **Open StageMark** in StageFlow passes the LIVE session on the same PC. Shared markers sync in both directions with a compatible host, including StageFlow 2027.1.26.
+- StageMark offers Spout 2 output and the local presence console on Windows. On macOS, the same-computer LIVE handoff uses the local macOS service.
+
+Source : https://github.com/Mamat79/StageMark/releases/tag/v2027.1.17
+
+## v2027.1.17 · 2026-11-22 · unspecified · original
+
 # StageMark 2027.1.17 · macOS
 
 ## Français
