@@ -1,5 +1,38 @@
 [
   {
+    "releaseId": "455112795",
+    "tag": "v2027.1.27",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.27",
+    "publishedAt": "2026-11-23T07:39:50Z",
+    "observedAt": "2026-11-23T07:42:04.542Z",
+    "locale": "en",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.27 · Windows\n\n- The purchase button and StageDesk guides show **€49 including tax** for the permanent Windows license. The one-time purchase is available in the SiLeMI/O store.\n- Windows offers a full 30-day trial, including offline. Existing activations retain their licensed installation limits.\n- StageDesk 2027.1.26 remains the free Mac edition for Apple Silicon and Intel. Updated Mac guides specify that the price applies to Windows.",
+    "contentSha256": "4b6362457789f7e6e4be7386ad854deea83043464a5fbabe1c9c1fd8c0683b92"
+  },
+  {
+    "releaseId": "455112795",
+    "tag": "v2027.1.27",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.27",
+    "publishedAt": "2026-11-23T07:39:50Z",
+    "observedAt": "2026-11-23T07:42:04.542Z",
+    "locale": "fr",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.27 · Windows\n\n- Le bouton d’achat et les notices StageDesk indiquent **49 € TTC** pour la licence permanente Windows. Le paiement unique est disponible sur la boutique SiLeMI/O.\n- Windows propose un essai complet de 30 jours, y compris hors ligne. Les licences déjà activées conservent les droits accordés.\n- StageDesk 2027.1.26 reste l’édition gratuite pour Mac, sur Apple Silicon et Intel. Les notices Mac actualisées précisent que le tarif concerne Windows.",
+    "contentSha256": "44cb7e686f0d9b7c5b7005f72b47c36cb27051a65d3d1ca8dff7011c3ab91891"
+  },
+  {
+    "releaseId": "455112795",
+    "tag": "v2027.1.27",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.27",
+    "publishedAt": "2026-11-23T07:39:50Z",
+    "observedAt": "2026-11-23T07:42:04.542Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.27 · Windows\n\n## Français\n\n- Le bouton d’achat et les notices StageDesk indiquent **49 € TTC** pour la licence permanente Windows. Le paiement unique est disponible sur la boutique SiLeMI/O.\n- Windows propose un essai complet de 30 jours, y compris hors ligne. Les licences déjà activées conservent les droits accordés.\n- StageDesk 2027.1.26 reste l’édition gratuite pour Mac, sur Apple Silicon et Intel. Les notices Mac actualisées précisent que le tarif concerne Windows.\n\n## English\n\n- The purchase button and StageDesk guides show **€49 including tax** for the permanent Windows license. The one-time purchase is available in the SiLeMI/O store.\n- Windows offers a full 30-day trial, including offline. Existing activations retain their licensed installation limits.\n- StageDesk 2027.1.26 remains the free Mac edition for Apple Silicon and Intel. Updated Mac guides specify that the price applies to Windows.",
+    "contentSha256": "259172540e35c419e976a2bc5de3543b8ab0f242f624ae79b9ec00cdc1645086"
+  },
+  {
     "releaseId": "454513335",
     "tag": "v2027.1.26",
     "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.26",
