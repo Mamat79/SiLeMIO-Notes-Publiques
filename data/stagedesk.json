@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "456020701",
+    "tag": "v2027.1.29",
+    "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.29",
+    "publishedAt": "2026-11-23T21:58:01Z",
+    "observedAt": "2026-11-23T22:00:17.398Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# StageDesk 2027.1.29 · Avantis dPack\n\n## Français\n\n- En réseau ou via **Director sur ce PC**, les profils **Avantis dPack** et **Avantis Solo dPack** prennent en charge les 96 entrées. Les profils standard couvrent 64 entrées. Le bouton **Tester** vérifie la réponse de l’entrée 96 avec le profil dPack.\n- Dans Avantis Director 2.02 hors ligne sous Windows, les deux modes dPack ont fourni les 96 entrées. StageDesk a envoyé, relu et rétabli les noms et couleurs des entrées 65 et 96 sur le show usine.\n- La page Réseau des notices FR/EN détaille la capacité, la sélection du modèle et le transfert sur Current.\n\n## English\n\n- Over the network or using **Director on this computer**, **Avantis dPack** and **Avantis Solo dPack** support all 96 inputs. Standard models cover 64. The **Test** button checks the response from input 96 on a dPack profile.\n- Both dPack modes exposed all 96 inputs in offline Avantis Director 2.02 on Windows. StageDesk sent, read back and restored the names and colours of inputs 65 and 96 on the factory show.\n- The networking section of the French and English manuals covers capacities, model selection and transfers to Current.",
+    "contentSha256": "1ac2b764041a4532b2194498ef6eed887109835cc160b07f71241753a4babc0e"
+  },
+  {
     "releaseId": "455854780",
     "tag": "v2027.1.28",
     "source": "https://github.com/Mamat79/StageDesk/releases/tag/v2027.1.28",
