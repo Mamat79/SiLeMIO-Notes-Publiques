@@ -4,6 +4,17 @@
     "tag": "v2027.3.3",
     "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3",
     "publishedAt": "2026-11-25T13:29:28Z",
+    "observedAt": "2026-11-25T14:33:16.709Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# Dante Config Editor 2027.3.3 (Windows / macOS)\n\n## 2027.3.3 — sessions réseau Windows et macOS\n\n- La croix de Réseau Dante masque la fenêtre et conserve la connexion. Revenir hors ligne déconnecte explicitement.\n- La matrice démarre repliée lors de sa première ouverture.\n- Enregistrer et Exporter capturent aussi les appareils du réseau et conservent les machines et patchs préparés du projet.\n- Préréglages propose tous les appareils et rubriques cochés, Tout cocher / Tout décocher et un enregistrement XML dans DCE.\n- À l’ouverture d’un XML en ligne, le tableau des correspondances est proposé. Le remplacement d’une machine prépare les écarts et les abonnements concernés avant application.\n- Les tableaux distinguent les informations observées des données non fournies.\n\n\nmacOS Apple Silicon et Intel : 2027.3.3. [Qualification Mac et limites](QUALIFICATION-MACOS-2027.3.3.md).\n\n\n---\n\n# Dante Config Editor 2027.3.3 (Windows / macOS)\n\n## 2027.3.3 — Windows and macOS network sessions\n\n- Closing Network Dante hides its window and retains the connection. Go offline explicitly disconnects.\n- The matrix starts collapsed on its first opening.\n- Save and Export include network devices and retain the project's absent devices and prepared routes.\n- Presets selects all devices and sections by default, provides Select all / Deselect all, and saves XML through DCE.\n- Opening XML online offers the device-assignment table. Device replacement prepares the relevant differences and subscriptions for review before applying.\n- Inventory tables distinguish observed values from information not reported by the device.\n\n\nmacOS Apple Silicon and Intel: 2027.3.3. [Mac qualification and limits](QUALIFICATION-MACOS-2027.3.3.md).\n\n\nMac: [qualification et limites / qualification and limits](https://github.com/Mamat79/Dante-Config-Editor/releases/download/v2027.3.3/QUALIFICATION-MACOS-2027.3.3.md).",
+    "contentSha256": "1e0201f18257571723e44feb4a408581dbbb7762c8ed715f9a1686a17c1e22b4"
+  },
+  {
+    "releaseId": "458153293",
+    "tag": "v2027.3.3",
+    "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3",
+    "publishedAt": "2026-11-25T13:29:28Z",
     "observedAt": "2026-11-25T13:30:29.276Z",
     "locale": "en",
     "platform": "unspecified",
