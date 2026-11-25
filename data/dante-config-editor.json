@@ -1,5 +1,38 @@
 [
   {
+    "releaseId": "458153293",
+    "tag": "v2027.3.3",
+    "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3",
+    "publishedAt": "2026-11-25T13:29:28Z",
+    "observedAt": "2026-11-25T13:30:29.276Z",
+    "locale": "en",
+    "platform": "unspecified",
+    "text": "# Dante Config Editor 2027.3.3 (Windows)\n\n## 2027.3.3 — Windows network session\n\n- Closing Network Dante hides its window and retains the connection. Go offline explicitly disconnects.\n- The matrix starts collapsed on its first opening.\n- Save and Export include network devices and retain the project's absent devices and prepared routes.\n- Presets selects all devices and sections by default, provides Select all / Deselect all, and saves XML through DCE.\n- Opening XML online offers the device-assignment table. Device replacement prepares the relevant differences and subscriptions for review before applying.\n- Inventory tables distinguish observed values from information not reported by the device.\n\n\nCurrent macOS packages: 2027.3.1.",
+    "contentSha256": "4795ec9ccf70d206a7f21e6ac919ec53c9762ac17f566ca4c4eeb44638cdf87e"
+  },
+  {
+    "releaseId": "458153293",
+    "tag": "v2027.3.3",
+    "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3",
+    "publishedAt": "2026-11-25T13:29:28Z",
+    "observedAt": "2026-11-25T13:30:29.276Z",
+    "locale": "fr",
+    "platform": "unspecified",
+    "text": "# Dante Config Editor 2027.3.3 (Windows)\n\n## 2027.3.3 — session réseau Windows\n\n- La croix de Réseau Dante masque la fenêtre et conserve la connexion. Revenir hors ligne déconnecte explicitement.\n- La matrice démarre repliée lors de sa première ouverture.\n- Enregistrer et Exporter capturent aussi les appareils du réseau et conservent les machines et patchs préparés du projet.\n- Préréglages propose tous les appareils et rubriques cochés, Tout cocher / Tout décocher et un enregistrement XML dans DCE.\n- À l’ouverture d’un XML en ligne, le tableau des correspondances est proposé. Le remplacement d’une machine prépare les écarts et les abonnements concernés avant application.\n- Les tableaux distinguent les informations observées des données non fournies.\n\n\nPaquets macOS actuels : 2027.3.1.",
+    "contentSha256": "466780ce32ff74250144269c342ff51f21a257cf6a13c541da2e896cda925d02"
+  },
+  {
+    "releaseId": "458153293",
+    "tag": "v2027.3.3",
+    "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3",
+    "publishedAt": "2026-11-25T13:29:28Z",
+    "observedAt": "2026-11-25T13:30:29.276Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "# Dante Config Editor 2027.3.3 (Windows)\n\n## 2027.3.3 — session réseau Windows\n\n- La croix de Réseau Dante masque la fenêtre et conserve la connexion. Revenir hors ligne déconnecte explicitement.\n- La matrice démarre repliée lors de sa première ouverture.\n- Enregistrer et Exporter capturent aussi les appareils du réseau et conservent les machines et patchs préparés du projet.\n- Préréglages propose tous les appareils et rubriques cochés, Tout cocher / Tout décocher et un enregistrement XML dans DCE.\n- À l’ouverture d’un XML en ligne, le tableau des correspondances est proposé. Le remplacement d’une machine prépare les écarts et les abonnements concernés avant application.\n- Les tableaux distinguent les informations observées des données non fournies.\n\n\nPaquets macOS actuels : 2027.3.1.\n\n---\n\n# Dante Config Editor 2027.3.3 (Windows)\n\n## 2027.3.3 — Windows network session\n\n- Closing Network Dante hides its window and retains the connection. Go offline explicitly disconnects.\n- The matrix starts collapsed on its first opening.\n- Save and Export include network devices and retain the project's absent devices and prepared routes.\n- Presets selects all devices and sections by default, provides Select all / Deselect all, and saves XML through DCE.\n- Opening XML online offers the device-assignment table. Device replacement prepares the relevant differences and subscriptions for review before applying.\n- Inventory tables distinguish observed values from information not reported by the device.\n\n\nCurrent macOS packages: 2027.3.1.",
+    "contentSha256": "17a506f8e09235d062a045ce79732d7145cdaefa7ab684eed0af1fd77ab760cc"
+  },
+  {
     "releaseId": "452787039",
     "tag": "v2027.3.2",
     "source": "https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.2",

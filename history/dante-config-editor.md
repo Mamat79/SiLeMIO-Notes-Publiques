@@ -1,5 +1,75 @@
 # Dante Config Editor — Notes de version / Release notes
 
+## v2027.3.3 · 2026-11-25 · unspecified · en
+
+# Dante Config Editor 2027.3.3 (Windows)
+
+## 2027.3.3 — Windows network session
+
+- Closing Network Dante hides its window and retains the connection. Go offline explicitly disconnects.
+- The matrix starts collapsed on its first opening.
+- Save and Export include network devices and retain the project's absent devices and prepared routes.
+- Presets selects all devices and sections by default, provides Select all / Deselect all, and saves XML through DCE.
+- Opening XML online offers the device-assignment table. Device replacement prepares the relevant differences and subscriptions for review before applying.
+- Inventory tables distinguish observed values from information not reported by the device.
+
+
+Current macOS packages: 2027.3.1.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3
+
+## v2027.3.3 · 2026-11-25 · unspecified · fr
+
+# Dante Config Editor 2027.3.3 (Windows)
+
+## 2027.3.3 — session réseau Windows
+
+- La croix de Réseau Dante masque la fenêtre et conserve la connexion. Revenir hors ligne déconnecte explicitement.
+- La matrice démarre repliée lors de sa première ouverture.
+- Enregistrer et Exporter capturent aussi les appareils du réseau et conservent les machines et patchs préparés du projet.
+- Préréglages propose tous les appareils et rubriques cochés, Tout cocher / Tout décocher et un enregistrement XML dans DCE.
+- À l’ouverture d’un XML en ligne, le tableau des correspondances est proposé. Le remplacement d’une machine prépare les écarts et les abonnements concernés avant application.
+- Les tableaux distinguent les informations observées des données non fournies.
+
+
+Paquets macOS actuels : 2027.3.1.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3
+
+## v2027.3.3 · 2026-11-25 · unspecified · original
+
+# Dante Config Editor 2027.3.3 (Windows)
+
+## 2027.3.3 — session réseau Windows
+
+- La croix de Réseau Dante masque la fenêtre et conserve la connexion. Revenir hors ligne déconnecte explicitement.
+- La matrice démarre repliée lors de sa première ouverture.
+- Enregistrer et Exporter capturent aussi les appareils du réseau et conservent les machines et patchs préparés du projet.
+- Préréglages propose tous les appareils et rubriques cochés, Tout cocher / Tout décocher et un enregistrement XML dans DCE.
+- À l’ouverture d’un XML en ligne, le tableau des correspondances est proposé. Le remplacement d’une machine prépare les écarts et les abonnements concernés avant application.
+- Les tableaux distinguent les informations observées des données non fournies.
+
+
+Paquets macOS actuels : 2027.3.1.
+
+---
+
+# Dante Config Editor 2027.3.3 (Windows)
+
+## 2027.3.3 — Windows network session
+
+- Closing Network Dante hides its window and retains the connection. Go offline explicitly disconnects.
+- The matrix starts collapsed on its first opening.
+- Save and Export include network devices and retain the project's absent devices and prepared routes.
+- Presets selects all devices and sections by default, provides Select all / Deselect all, and saves XML through DCE.
+- Opening XML online offers the device-assignment table. Device replacement prepares the relevant differences and subscriptions for review before applying.
+- Inventory tables distinguish observed values from information not reported by the device.
+
+
+Current macOS packages: 2027.3.1.
+
+Source : https://github.com/Mamat79/Dante-Config-Editor/releases/tag/v2027.3.3
+
 ## v2027.3.2 · 2026-11-20 · unspecified · en
 
 # Dante Config Editor 2027.3.2 (Windows)
