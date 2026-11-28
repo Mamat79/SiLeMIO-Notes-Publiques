@@ -1,5 +1,16 @@
 [
   {
+    "releaseId": "461076242",
+    "tag": "v2027.9.1",
+    "source": "https://github.com/Mamat79/SiLeMIO-Larsen/releases/tag/v2027.9.1",
+    "publishedAt": "2026-11-27T21:23:19Z",
+    "observedAt": "2026-11-28T01:58:52.799Z",
+    "locale": "original",
+    "platform": "unspecified",
+    "text": "## Français\n\nLarsen Lupin 2027.9.1 met à jour les plug-ins macOS AU et VST3 pour Apple Silicon et Intel. Le correctif vise les fermetures d’Usine HH7 pendant le scan ou l’ouverture du plug-in. Le code du traitement audio et ses réglages sont conservés. L’application autonome incluse et la version Windows sont en 2027.9.\n\nLa compilation et l’installation du DMG ont été vérifiées. Le test de l’AU et du VST3 ensemble dans le même projet Usine avec le traitement actif reste à confirmer. La page 8 de la notice indique quoi relever si Usine se ferme.\n\n[Téléchargements SiLeMI/O](https://www.silemio.com/logiciels/larsen-lupin#downloads)\n\n## English\n\nLarsen Lupin 2027.9.1 updates the macOS AU and VST3 plug-ins for Apple Silicon and Intel. The fix addresses Usine HH7 crashes during scanning or editor opening. The audio-processing code and settings are retained. The included standalone app and the Windows release are version 2027.9.\n\nBuild and DMG installation checks passed. Testing AU and VST3 together in the same Usine project with active processing is pending. Page 8 of the manual explains what to record if Usine closes.\n\n[SiLeMI/O downloads](https://www.silemio.com/en/software/larsen-lupin#downloads)",
+    "contentSha256": "a13f1793fde00190c3ff19c9faea4707b2211308edde750ad6675e50924c98f8"
+  },
+  {
     "releaseId": "440771267",
     "tag": "v2027.9",
     "source": "https://github.com/Mamat79/SiLeMIO-Larsen/releases/tag/v2027.9",
